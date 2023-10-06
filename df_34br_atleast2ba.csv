@@ -1,0 +1,758 @@
+,Title,Address,Bedroom,Bathroom,Price,City,State,Zipcode,Latitude ,Longitude 
+0,Townhouse,"5455 New London Park Dr, Fairfax, VA 22032",3,4.0,2700,Fairfax,VA,22032,38.8203,-77.2902
+1,Townhouse,"5415 Helm Ct, Fairfax, VA 22032",4,3.5,3200,Fairfax,VA,22032,38.8203,-77.2902
+2,House,"5140 Pumphrey Dr, Fairfax, VA 22032",4,2.5,3500,Fairfax,VA,22032,38.8203,-77.2902
+3,Townhouse,"5575 Glasgow Woods Ct, Fairfax, VA 22032",3,4.0,2650,Fairfax,VA,22032,38.8203,-77.2902
+4,Townhouse,"5503 Akridge Ct, Fairfax, VA 22032",3,3.5,3000,Fairfax,VA,22032,38.8203,-77.2902
+5,House,"9731 Loch Linden Ct, Fairfax, VA 22032",4,2.5,4000,Fairfax,VA,22032,38.8203,-77.2902
+6,House,"5124 Richardson Dr, Fairfax, VA 22032",4,2.5,3200,Fairfax,VA,22032,38.8203,-77.2902
+7,House,"4631 Tara Dr, Fairfax, VA 22032",4,3.0,3200,Fairfax,VA,22032,38.8203,-77.2902
+8,House,"10208 Commonwealth Blvd, Fairfax, VA 22032",4,2.5,3200,Fairfax,VA,22032,38.8203,-77.2902
+9,House,"10004 Dalroy Ct, Fairfax, VA 22032",4,3.0,3375,Fairfax,VA,22032,38.8203,-77.2902
+10,Townhouse,"14312 Beckett Glen Cir, Chantilly, VA 20151",3,5.0,4800,Chantilly,VA,20151,38.8989,-77.4479
+11,Townhouse,"4227 Moselle Dr, Chantilly, VA 20151",4,3.0,2550,Chantilly,VA,20151,38.8989,-77.4479
+12,Townhouse,"5166 Ridgeview Retreat Dr, Chantilly, VA 20151",4,4.5,3700,Chantilly,VA,20151,38.8989,-77.4479
+13,House,"12665 Magna Carta Rd, Herndon, VA 20171",3,2.0,2800,Herndon,VA,20171,38.9233,-77.3979
+14,House,"12305 Myterra Way, Herndon, VA 20171",4,3.0,3750,Herndon,VA,20171,38.9233,-77.3979
+15,Townhouse,"2533 James Maury Dr, Herndon, VA 20171",3,4.0,2600,Herndon,VA,20171,38.9233,-77.3979
+16,House,"13079 Greg Roy Ln, Herndon, VA 20171",4,4.5,3700,Herndon,VA,20171,38.9233,-77.3979
+17,Townhouse,"13126 Plotner Farm Rd, Herndon, VA 20171",3,3.5,3000,Herndon,VA,20171,38.9233,-77.3979
+18,Townhouse,"13588 Big Boulder Rd, Herndon, VA 20171",4,3.5,3200,Herndon,VA,20171,38.9233,-77.3979
+19,Townhouse,"2646 Jetstream Rd, Oak Hill, VA 20171",4,4.0,3290,Oak Hill,VA,20171,38.9233,-77.3979
+20,Townhouse,"2640 Jetstream Rd, Herndon, VA 20171",3,3.0,3100,Herndon,VA,20171,38.9233,-77.3979
+21,Townhouse,"13387 Launders St Unit 76, Herndon, VA 20171",3,2.5,2900,Herndon,VA,20171,38.9233,-77.3979
+22,Townhouse,"13011 Park Crescent Cir, Herndon, VA 20171",3,5.0,3250,Herndon,VA,20171,38.9233,-77.3979
+23,Townhouse,"13009 Hattontown Square, Oak Hill, VA 20171",4,4.5,4000,Oak Hill,VA,20171,38.9233,-77.3979
+24,Townhouse,"13326 Burrough Farm Dr, Herndon, VA 20171",3,3.5,2600,Herndon,VA,20171,38.9233,-77.3979
+25,Townhouse,"13150 Ashnut Ln, Herndon, VA 20171",3,3.5,2850,Herndon,VA,20171,38.9233,-77.3979
+26,Townhouse,"13943 Airfoil Rd, Herndon, VA 20171",4,4.5,2950,Herndon,VA,20171,38.9233,-77.3979
+27,Townhouse,"13689 Neil Armstrong Ave, Herndon, VA 20171",4,4.5,4100,Herndon,VA,20171,38.9233,-77.3979
+28,Townhouse,"13364 Sherwood Park Ln, Herndon, VA 20171",4,4.5,3490,Herndon,VA,20171,38.9233,-77.3979
+29,Townhouse,"13339 Misty Dawn Dr, Herndon, VA 20171",3,3.5,2900,Herndon,VA,20171,38.9233,-77.3979
+30,Townhouse,"2511 Golden Harvest Ct, Herndon, VA 20171",3,2.5,2650,Herndon,VA,20171,38.9233,-77.3979
+31,Townhouse,"13340 Sherwood Park Ln, Herndon, VA 20171",3,5.0,3400,Herndon,VA,20171,38.9233,-77.3979
+32,Townhouse,"2414 Curie Ct Unit 39, Herndon, VA 20171",3,2.5,2600,Herndon,VA,20171,38.9233,-77.3979
+33,Townhouse,"2408 Simpkins Farm Dr, Herndon, VA 20171",3,6.0,2999,Herndon,VA,20171,38.9233,-77.3979
+34,Townhouse,"2706 Jetstream Rd, Herndon, VA 20171",3,3.5,3300,Herndon,VA,20171,38.9233,-77.3979
+35,Townhouse,"2434 Old Farmhouse Ct, Herndon, VA 20171",3,3.5,2690,Herndon,VA,20171,38.9233,-77.3979
+36,Townhouse,"13202 Windy Oak Way, Herndon, VA 20171",3,3.5,3150,Herndon,VA,20171,38.9233,-77.3979
+37,House,"12769 Flat Meadow Ln, Herndon, VA 20171",4,2.5,3675,Herndon,VA,20171,38.9233,-77.3979
+38,Townhouse,"2527 Banshire Dr, Herndon, VA 20171",3,2.5,2800,Herndon,VA,20171,38.9233,-77.3979
+39,House,"3028 Leefield Dr, Herndon, VA 20171",4,4.5,5500,Herndon,VA,20171,38.9233,-77.3979
+40,Townhouse,"13660 Endeavour Dr Unit 20C, Herndon, VA 20171",3,2.5,2650,Herndon,VA,20171,38.9233,-77.3979
+41,Townhouse,"2435 Liberty Loop, Herndon, VA 20171",3,4.0,3500,Herndon,VA,20171,38.9233,-77.3979
+42,Townhouse,"13929 Airfoil Rd, Herndon, VA 20171",3,5.0,3200,Herndon,VA,20171,38.9233,-77.3979
+43,Townhouse,"2515 Isham Randolph Dr, Herndon, VA 20171",3,3.5,2500,Herndon,VA,20171,38.9233,-77.3979
+44,Townhouse,"2555 Thorncroft Place, Herndon, VA 20171",3,2.5,2800,Herndon,VA,20171,38.9233,-77.3979
+45,Townhouse,"13517 Bannacker Place, Herndon, VA 20171",3,4.0,2600,Herndon,VA,20171,38.9233,-77.3979
+46,Townhouse,"13142 Copper Brook Way, Herndon, VA 20171",3,4.0,2700,Herndon,VA,20171,38.9233,-77.3979
+47,Townhouse,"2501 Bronze Stone Place, Herndon, VA 20171",4,4.0,2750,Herndon,VA,20171,38.9233,-77.3979
+48,House,"1710 Palm Springs Dr, Vienna, VA 22182",4,2.5,3750,Vienna,VA,22182,38.936,-77.2729
+49,Townhouse,"8046 Reserve Way, Vienna, VA 22182",3,2.5,4000,Vienna,VA,22182,38.936,-77.2729
+50,Townhouse,"8043 Reserve Way, Vienna, VA 22182",4,3.5,4200,Vienna,VA,22182,38.936,-77.2729
+51,House,"1720 Beulah Rd, Vienna, VA 22182",3,3.0,3700,Vienna,VA,22182,38.936,-77.2729
+52,Townhouse,"2104 Eluna Ct, Vienna, VA 22182",3,3.5,3400,Vienna,VA,22182,38.936,-77.2729
+53,Townhouse,"2013 Gallows Tree Ct, Vienna, VA 22182",3,4.0,3700,Vienna,VA,22182,38.936,-77.2729
+54,Townhouse,"1803 Fawncrest Ct, Vienna, VA 22182",3,4.0,4300,Vienna,VA,22182,38.936,-77.2729
+55,House,"8316 Idylwood Rd, Vienna, VA 22182",4,4.0,4500,Vienna,VA,22182,38.936,-77.2729
+56,Townhouse,"8844 Mansion View Ct, Vienna, VA 22182",3,3.5,3695,Vienna,VA,22182,38.936,-77.2729
+57,House,"8811 Higdon Dr, Vienna, VA 22182",4,2.5,3300,Vienna,VA,22182,38.936,-77.2729
+58,Townhouse,"8104 Meadow Springs Ct, Vienna, VA 22182",3,2.5,3995,Vienna,VA,22182,38.936,-77.2729
+59,Townhouse,"2305 Mcgregor Ct, Vienna, VA 22182",4,3.5,3095,Vienna,VA,22182,38.936,-77.2729
+60,Townhouse,"8021 Kidwell Ct Unit 1514N, Vienna, VA 22182",3,2.5,3347,Vienna,VA,22182,38.936,-77.2729
+61,House,"1511 Gingerwood Ct, Vienna, VA 22182",4,4.0,3999,Vienna,VA,22182,38.936,-77.2729
+62,Townhouse,"8064 Criaza Branch Ct, Vienna, VA 22182",3,2.5,3995,Vienna,VA,22182,38.936,-77.2729
+63,Townhouse,"8512 Harvest Oak Dr, Vienna, VA 22182",4,3.5,3850,Vienna,VA,22182,38.936,-77.2729
+64,Townhouse,"8014 Rachelle Place, Vienna, VA 22182",3,4.0,3250,Vienna,VA,22182,38.936,-77.2729
+65,Townhouse,"8528 Raglan Rd, Vienna, VA 22182",3,3.5,3400,Vienna,VA,22182,38.936,-77.2729
+66,Townhouse,"2311 Mcgregor Ct, Vienna, VA 22182",3,2.5,3800,Vienna,VA,22182,38.936,-77.2729
+67,Townhouse,"8510 Harvest Oak Dr, Vienna, VA 22182",3,3.5,4200,Vienna,VA,22182,38.936,-77.2729
+68,Townhouse,"8504 Jeffersonian Ct, Vienna, VA 22182",4,3.5,3900,Vienna,VA,22182,38.936,-77.2729
+69,House,"1534 Red Rock Ct, Vienna, VA 22182",4,3.5,4500,Vienna,VA,22182,38.936,-77.2729
+70,Townhouse,"2013 Approach Ln, Reston, VA 20191",3,2.5,2750,Reston,VA,20191,38.934,-77.3516
+71,Townhouse,"2281 Emerald Heights Ct, Reston, VA 20191",3,2.5,2500,Reston,VA,20191,38.934,-77.3516
+72,House,"2123 Owls Cove Ln, Reston, VA 20191",3,2.0,3700,Reston,VA,20191,38.934,-77.3516
+73,Townhouse,"2042 Headlands Cir, Reston, VA 20191",3,3.5,2900,Reston,VA,20191,38.934,-77.3516
+74,Townhouse,"2038 Swans Neck Way, Reston, VA 20191",3,3.5,2925,Reston,VA,20191,38.934,-77.3516
+75,Townhouse,"11866 Saint Trinians Ct, Reston, VA 20191",3,3.5,2895,Reston,VA,20191,38.934,-77.3516
+76,Townhouse,"2318 Millennium Ln, Reston, VA 20191",4,3.5,3800,Reston,VA,20191,38.934,-77.3516
+77,Townhouse,"2306 Emerald Heights Ct, Reston, VA 20191",3,4.0,2650,Reston,VA,20191,38.934,-77.3516
+78,Townhouse,"11114 Lakespray Way, Reston, VA 20191",3,3.5,3800,Reston,VA,20191,38.934,-77.3516
+79,Townhouse,"11720 Dry River Ct, Reston, VA 20191",3,4.0,3000,Reston,VA,20191,38.934,-77.3516
+80,Townhouse,"2271 Coppersmith Square, Reston, VA 20191",3,2.5,2400,Reston,VA,20191,38.934,-77.3516
+81,House,"2004 Halyard Ln, Reston, VA 20191",4,3.5,5000,Reston,VA,20191,38.934,-77.3516
+82,Townhouse,"11996 Sentinel Point Ct, Reston, VA 20191",3,2.5,2850,Reston,VA,20191,38.934,-77.3516
+83,Townhouse,"2325 Glade Bank Way, Reston, VA 20191",3,2.5,2950,Reston,VA,20191,38.934,-77.3516
+84,House,"2509 Foxcroft Way, Reston, VA 20191",4,3.0,3500,Reston,VA,20191,38.934,-77.3516
+85,Townhouse,"2168 Golf Course Dr, Reston, VA 20191",3,4.0,3250,Reston,VA,20191,38.934,-77.3516
+86,Townhouse,"11014 Granby Ct, Reston, VA 20191",3,3.5,2800,Reston,VA,20191,38.934,-77.3516
+87,House,"7813 Mulberry Bottom Ln, Springfield, VA 22153",4,2.5,3800,Springfield,VA,22153,38.7443,-77.2351
+88,House,"7907 Laural Valley Way, Springfield, VA 22153",4,3.5,3850,Springfield,VA,22153,38.7443,-77.2351
+89,Townhouse,"8093 Steeple Chase Ct, Springfield, VA 22153",3,3.0,2700,Springfield,VA,22153,38.7443,-77.2351
+90,House,"8301 Deep Valley Ct, Springfield, VA 22153",4,3.5,3500,Springfield,VA,22153,38.7443,-77.2351
+91,Townhouse,"8179 Curving Creek Ct, Springfield, VA 22153",3,2.5,2595,Springfield,VA,22153,38.7443,-77.2351
+92,House,"7951 Hidden Bridge Dr, Springfield, VA 22153",3,4.0,3000,Springfield,VA,22153,38.7443,-77.2351
+93,House,"7620 Maritime Ln, Springfield, VA 22153",4,3.0,3400,Springfield,VA,22153,38.7443,-77.2351
+94,Townhouse,"9075 Giltinan Ct, Springfield, VA 22153",3,2.5,2900,Springfield,VA,22153,38.7443,-77.2351
+95,House,"8471 Misty Blue Ct, Springfield, VA 22153",4,2.0,2995,Springfield,VA,22153,38.7443,-77.2351
+96,House,"8833 Seacraft Ct, Springfield, VA 22153",4,2.5,3500,Springfield,VA,22153,38.7443,-77.2351
+97,Townhouse,"8028 Sleepy View Ln, Springfield, VA 22153",3,3.5,3000,Springfield,VA,22153,38.7443,-77.2351
+98,Townhouse,"8914 Grandstaff Ct, Springfield, VA 22153",3,3.5,3300,Springfield,VA,22153,38.7443,-77.2351
+99,Townhouse,"7962 Forest Path Way, Springfield, VA 22153",3,4.0,2600,Springfield,VA,22153,38.7443,-77.2351
+100,House,"5825 Biscayne Dr, Alexandria, VA 22303",4,2.0,3000,Alexandria,VA,22303,38.7942,-77.0855
+101,Townhouse,"3858 Elmwood Towne Way, Alexandria, VA 22303",3,3.5,3595,Alexandria,VA,22303,38.7942,-77.0855
+102,House,"5819 Fifer Dr, Alexandria, VA 22303",3,2.0,2850,Alexandria,VA,22303,38.7942,-77.0855
+103,House,"6118 Bangor Dr, Alexandria, VA 22303",4,2.0,2750,Alexandria,VA,22303,38.7942,-77.0855
+104,Townhouse,"2111 Hardbower Way, Alexandria, VA 22303",3,3.5,5800,Alexandria,VA,22303,38.7942,-77.0855
+105,Townhouse,"5720 Fenwick Dr, Alexandria, VA 22303",3,2.0,2495,Alexandria,VA,22303,38.7942,-77.0855
+106,House,"6106 Bangor Dr, Alexandria, VA 22303",3,2.0,3800,Alexandria,VA,22303,38.7942,-77.0855
+107,Townhouse,"2848 Fairhaven Ave, Alexandria, VA 22303",3,2.0,3230,Alexandria,VA,22303,38.7942,-77.0855
+108,House,"3506 Beverly Dr, Annandale, VA 22003",4,3.0,3800,Annandale,VA,22003,38.8308,-77.2142
+109,Townhouse,"3690 Yorktown Village Pass, Annandale, VA 22003",3,4.0,3000,Annandale,VA,22003,38.8308,-77.2142
+110,Townhouse,"3403 Wheatwheel Ln, Annandale, VA 22003",3,3.5,2900,Annandale,VA,22003,38.8308,-77.2142
+111,House,"7815 Bristow Dr, Annandale, VA 22003",4,2.0,3600,Annandale,VA,22003,38.8308,-77.2142
+112,House,"4607 Exeter St, Annandale, VA 22003",4,3.5,3400,Annandale,VA,22003,38.8308,-77.2142
+113,House,"4021 Oxford St, Annandale, VA 22003",4,3.0,3550,Annandale,VA,22003,38.8308,-77.2142
+114,Townhouse,"4503 King Edward Ct, Annandale, VA 22003",4,3.5,3500,Annandale,VA,22003,38.8308,-77.2142
+115,Townhouse,"8311 Highcliffe Ct, Annandale, VA 22003",3,4.0,2850,Annandale,VA,22003,38.8308,-77.2142
+116,Townhouse,"4584 Conwell Dr, Annandale, VA 22003",3,2.0,2695,Annandale,VA,22003,38.8308,-77.2142
+117,House,"7203 Statecrest Dr, Annandale, VA 22003",4,3.0,3300,Annandale,VA,22003,38.8308,-77.2142
+118,Townhouse,"6768 Perry Penney Dr Unit 108, Annandale, VA 22003",3,2.0,2600,Annandale,VA,22003,38.8308,-77.2142
+119,House,"9521 Rockport Rd, Vienna, VA 22180",4,3.0,3750,Vienna,VA,22180,38.8963,-77.2541
+120,House,"1105 Westbriar Ct NE, Vienna, VA 22180",3,2.5,3900,Vienna,VA,22180,38.8963,-77.2541
+121,House,"2411 Jackson Pkwy, Vienna, VA 22180",4,3.0,8000,Vienna,VA,22180,38.8963,-77.2541
+122,House,"8411 Cottage St, Vienna, VA 22180",4,2.5,3600,Vienna,VA,22180,38.8963,-77.2541
+123,Townhouse,"1119 Moorefield Hill Ct SW, Vienna, VA 22180",3,2.5,3000,Vienna,VA,22180,38.8963,-77.2541
+124,House,"113 Kingsley Rd SW, Vienna, VA 22180",4,2.0,3400,Vienna,VA,22180,38.8963,-77.2541
+125,House,"530 Lincoln St NW, Vienna, VA 22180",4,2.0,2995,Vienna,VA,22180,38.8963,-77.2541
+126,House,"903 Timber Ln SW, Vienna, VA 22180",3,2.0,3500,Vienna,VA,22180,38.8963,-77.2541
+127,House,"2626 Bowling Green Dr, Vienna, VA 22180",3,3.0,3400,Vienna,VA,22180,38.8963,-77.2541
+128,House,"905 Shady Dr SE, Vienna, VA 22180",4,3.0,3250,Vienna,VA,22180,38.8963,-77.2541
+129,Townhouse,"2827 Grovemore Ln, Vienna, VA 22180",3,3.5,3000,Vienna,VA,22180,38.8963,-77.2541
+130,Townhouse,"2748 Manhattan Place, Vienna, VA 22180",4,3.5,3400,Vienna,VA,22180,38.8963,-77.2541
+131,Townhouse,"3873 Billberry Dr, Fairfax, VA 22033",4,3.5,4500,Fairfax,VA,22033,38.8757,-77.3859
+132,Townhouse,"13327 Foxhole Dr, Fairfax, VA 22033",3,3.5,2750,Fairfax,VA,22033,38.8757,-77.3859
+133,Townhouse,"4016 Rosemeade Dr, Fairfax, VA 22033",3,3.5,3000,Fairfax,VA,22033,38.8757,-77.3859
+134,House,"12925 Wheatland Rd, Fairfax, VA 22033",4,3.5,4100,Fairfax,VA,22033,38.8757,-77.3859
+135,Townhouse,"4275 Sleepy Lake Dr, Fairfax, VA 22033",3,4.0,2990,Fairfax,VA,22033,38.8757,-77.3859
+136,Townhouse,"3621 Buckeye Ct, Fairfax, VA 22033",4,3.5,2650,Fairfax,VA,22033,38.8757,-77.3859
+137,Townhouse,"4396 Fair Lakes Ct, Fairfax, VA 22033",3,3.5,3850,Fairfax,VA,22033,38.8757,-77.3859
+138,Townhouse,"4614 Hummingbird Way Unit 99, Fairfax, VA 22033",3,2.5,2400,Fairfax,VA,22033,38.8757,-77.3859
+139,House,"4410 Midstone Ln, Fairfax, VA 22033",4,2.0,3200,Fairfax,VA,22033,38.8757,-77.3859
+140,Townhouse,"3700 Sudley Ford Ct, Fairfax, VA 22033",3,2.0,2425,Fairfax,VA,22033,38.8757,-77.3859
+141,Townhouse,"4418 Fair Lakes Ct, Chantilly, VA 22033",3,3.5,3800,Chantilly,VA,22033,38.8757,-77.3859
+142,Townhouse,"3803 Inverness Rd, Fairfax, VA 22033",3,3.5,2900,Fairfax,VA,22033,38.8757,-77.3859
+143,Townhouse,"13134 Quail Creek Ln, Fairfax, VA 22033",4,3.5,2800,Fairfax,VA,22033,38.8757,-77.3859
+144,Townhouse,"3913 Kathryn Jean Ct, Fairfax, VA 22033",3,3.5,3700,Fairfax,VA,22033,38.8757,-77.3859
+145,House,"10610 Cavalcade St, Great Falls, VA 22066",3,2.5,3050,Great Falls,VA,22066,39.0101,-77.3026
+146,House,"636 Walker Rd, Great Falls, VA 22066",4,2.0,3750,Great Falls,VA,22066,39.0101,-77.3026
+147,House,"1008 Kimberly Place, Great Falls, VA 22066",4,4.5,6500,Great Falls,VA,22066,39.0101,-77.3026
+148,House,"10311 Hickory Creek Ct, Great Falls, VA 22066",4,3.5,6000,Great Falls,VA,22066,39.0101,-77.3026
+149,House,"11002 Warwickshire Dr, Great Falls, VA 22066",4,2.5,4750,Great Falls,VA,22066,39.0101,-77.3026
+150,House,"709 Ellsworth Ave, Great Falls, VA 22066",3,2.0,3500,Great Falls,VA,22066,39.0101,-77.3026
+151,Townhouse,"2816 Kelly Square, Vienna, VA 22181",3,3.5,3200,Vienna,VA,22181,38.9067,-77.2958
+152,House,"2440 Carey Ln, Vienna, VA 22181",4,4.0,4850,Vienna,VA,22181,38.9067,-77.2958
+153,House,"9810 Meadow Dale Ct, Vienna, VA 22181",4,2.5,3900,Vienna,VA,22181,38.9067,-77.2958
+154,Townhouse,"9419 Colonade Dr, Vienna, VA 22181",3,4.0,3650,Vienna,VA,22181,38.9067,-77.2958
+155,Townhouse,"9669 Scotch Haven Dr, Vienna, VA 22181",3,4.0,3400,Vienna,VA,22181,38.9067,-77.2958
+156,House,"10116 Garrett St, Vienna, VA 22181",4,2.5,3225,Vienna,VA,22181,38.9067,-77.2958
+157,Townhouse,"2810 Roesh Way, Vienna, VA 22181",3,3.5,3500,Vienna,VA,22181,38.9067,-77.2958
+158,Townhouse,"9445 Van Arsdale Dr, Vienna, VA 22181",3,3.5,3400,Vienna,VA,22181,38.9067,-77.2958
+159,Townhouse,"9803 Sweet Mint Dr, Vienna, VA 22181",3,3.5,2495,Vienna,VA,22181,38.9067,-77.2958
+160,Townhouse,"3080 Sugar Ln, Vienna, VA 22181",4,3.5,2900,Vienna,VA,22181,38.9067,-77.2958
+161,House,"2120 Docket Ln, Vienna, VA 22181",4,2.5,3850,Vienna,VA,22181,38.9067,-77.2958
+162,Townhouse,"9915 Trosby Ct, Vienna, VA 22181",4,3.5,4300,Vienna,VA,22181,38.9067,-77.2958
+163,Townhouse,"9655 Motley Ln, Vienna, VA 22181",3,2.5,3200,Vienna,VA,22181,38.9067,-77.2958
+164,Townhouse,"9463 Canonbury Square, Fairfax, VA 22031",4,3.5,3750,Fairfax,VA,22031,38.8603,-77.2591
+165,House,"3816 Ridgelea Dr, Fairfax, VA 22031",4,3.5,3800,Fairfax,VA,22031,38.8603,-77.2591
+166,Townhouse,"3020 Southern Elm Ct, Fairfax, VA 22031",4,3.5,3200,Fairfax,VA,22031,38.8603,-77.2591
+167,Townhouse,"2926 Mainstone Dr, Fairfax, VA 22031",3,4.0,4000,Fairfax,VA,22031,38.8603,-77.2591
+168,Townhouse,"9350 Sweetbay Magnolia Ct, Fairfax, VA 22031",3,3.5,4100,Fairfax,VA,22031,38.8603,-77.2591
+169,Townhouse,"9523 Poplar Leaf Ct, Fairfax, VA 22031",3,2.5,2750,Fairfax,VA,22031,38.8603,-77.2591
+170,House,"3130 Chichester Ln, Fairfax, VA 22031",3,2.0,3500,Fairfax,VA,22031,38.8603,-77.2591
+171,Townhouse,"2978 Thompson Park Ln, Fairfax, VA 22031",3,3.5,3600,Fairfax,VA,22031,38.8603,-77.2591
+172,Townhouse,"3043 Talking Rock Dr, Fairfax, VA 22031",3,3.5,2600,Fairfax,VA,22031,38.8603,-77.2591
+173,Townhouse,"2909 Mainstone Dr, Fairfax, VA 22031",3,2.0,3950,Fairfax,VA,22031,38.8603,-77.2591
+174,Townhouse,"9070 Arlington Blvd, Fairfax, VA 22031",3,2.5,2550,Fairfax,VA,22031,38.8603,-77.2591
+175,Townhouse,"3191 Readsborough Ct, Fairfax, VA 22031",3,4.0,3000,Fairfax,VA,22031,38.8603,-77.2591
+176,House,"6464 Third St, Alexandria, VA 22312",3,3.5,2650,Alexandria,VA,22312,38.8177,-77.1538
+177,Townhouse,"6327 Summer Moon Ln, Alexandria, VA 22312",4,2.5,3300,Alexandria,VA,22312,38.8177,-77.1538
+178,Townhouse,"5265 Broadwing Place, Alexandria, VA 22312",4,3.5,3500,Alexandria,VA,22312,38.8177,-77.1538
+179,Townhouse,"6227 Split Creek Ln, Alexandria, VA 22312",3,4.0,3295,Alexandria,VA,22312,38.8177,-77.1538
+180,House,"6439 Overlook Dr, Alexandria, VA 22312",4,2.0,3500,Alexandria,VA,22312,38.8177,-77.1538
+181,House,"6325 Oak Ridge Dr, Alexandria, VA 22312",3,2.5,3300,Alexandria,VA,22312,38.8177,-77.1538
+182,Townhouse,"6584 Irvin Ct, Alexandria, VA 22312",3,4.0,3200,Alexandria,VA,22312,38.8177,-77.1538
+183,House,"6349 Pima St, Alexandria, VA 22312",4,4.0,3700,Alexandria,VA,22312,38.8177,-77.1538
+184,House,"6316 Bren Mar Dr, Alexandria, VA 22312",4,2.0,3000,Alexandria,VA,22312,38.8177,-77.1538
+185,Townhouse,"6490 Powatan Knoll Ct, Alexandria, VA 22312",3,3.5,3600,Alexandria,VA,22312,38.8177,-77.1538
+186,House,"14509 William Carr Ln, Centreville, VA 20120",3,2.5,3000,Centreville,VA,20120,38.8543,-77.4776
+187,Townhouse,"14634 Battery Ridge Ln, Centreville, VA 20120",3,3.5,2700,Centreville,VA,20120,38.8543,-77.4776
+188,Townhouse,"5848 Watermark Cir, Centreville, VA 20120",3,4.0,3000,Centreville,VA,20120,38.8543,-77.4776
+189,Townhouse,"6167 Stonepath Cir, Centreville, VA 20120",3,3.0,2600,Centreville,VA,20120,38.8543,-77.4776
+190,Townhouse,"5035 Cool Fountain Ln, Centreville, VA 20120",3,4.0,2800,Centreville,VA,20120,38.8543,-77.4776
+191,Townhouse,"6022 Westbourne Place, Centreville, VA 20120",3,3.5,2495,Centreville,VA,20120,38.8543,-77.4776
+192,Townhouse,"14621 Stream Pond Dr, Centreville, VA 20120",4,3.5,2899,Centreville,VA,20120,38.8543,-77.4776
+193,Townhouse,"14840 Lynhodge Ct, Centreville, VA 20120",3,2.0,2300,Centreville,VA,20120,38.8543,-77.4776
+194,Townhouse,"5032 Greenhouse Terrace, Centreville, VA 20120",3,4.0,3000,Centreville,VA,20120,38.8543,-77.4776
+195,Townhouse,"13548 Mist Flower Dr, Centreville, VA 20120",3,2.5,2699,Centreville,VA,20120,38.8543,-77.4776
+196,Townhouse,"13611 Lavender Mist Ln, Centreville, VA 20120",4,3.5,2900,Centreville,VA,20120,38.8543,-77.4776
+197,Townhouse,"8067 Nicosh Circle Ln Unit 56, Falls Church, VA 22042",3,3.0,3400,Falls Church,VA,22042,38.865,-77.193
+198,House,"3220 Wayne Rd, Falls Church, VA 22042",4,3.0,4750,Falls Church,VA,22042,38.865,-77.193
+199,Townhouse,"2926 Bridgehampton Ct, Falls Church, VA 22042",3,4.0,3400,Falls Church,VA,22042,38.865,-77.193
+200,House,"6805 Glenmont St, Falls Church, VA 22042",3,2.0,3500,Falls Church,VA,22042,38.865,-77.193
+201,House,"3304 Horseman Ln, Falls Church, VA 22042",3,2.5,4000,Falls Church,VA,22042,38.865,-77.193
+202,Townhouse,"7374 Blade Dr, Falls Church, VA 22042",3,3.5,4000,Falls Church,VA,22042,38.865,-77.193
+203,House,"3150 Siron St, Falls Church, VA 22042",3,2.0,4200,Falls Church,VA,22042,38.865,-77.193
+204,House,"2920 Lawrence Dr, Falls Church, VA 22042",4,2.5,4559,Falls Church,VA,22042,38.865,-77.193
+205,Townhouse,"2850 Great Oak Ct, Falls Church, VA 22042",3,4.0,3500,Falls Church,VA,22042,38.865,-77.193
+206,Townhouse,"6923 Mclean Park Manor Ct, McLean, VA 22101",4,2.5,4250,McLean,VA,22101,38.939,-77.1665
+207,House,"1451 Pathfinder Ln, McLean, VA 22101",4,2.5,5300,McLean,VA,22101,38.939,-77.1665
+208,House,"6805 Tennyson Dr, McLean, VA 22101",4,3.0,3800,McLean,VA,22101,38.939,-77.1665
+209,House,"1642 Evers Dr, McLean, VA 22101",3,2.5,4100,McLean,VA,22101,38.939,-77.1665
+210,Townhouse,"6605 Mclean Ct, McLean, VA 22101",4,3.5,4200,McLean,VA,22101,38.939,-77.1665
+211,Townhouse,"6609 Anthony Crest Square, McLean, VA 22101",3,3.5,4500,McLean,VA,22101,38.939,-77.1665
+212,House,"6812 Rosemont Dr, McLean, VA 22101",3,2.5,3900,McLean,VA,22101,38.939,-77.1665
+213,House,"1669 East Ave, McLean, VA 22101",4,3.0,4200,McLean,VA,22101,38.939,-77.1665
+214,House,"1807 Youngblood St, McLean, VA 22101",4,3.0,4280,McLean,VA,22101,38.939,-77.1665
+215,House,"6652 Chilton Ct, McLean, VA 22101",4,3.0,4600,McLean,VA,22101,38.939,-77.1665
+216,House,"1500 Smith St, McLean, VA 22101",4,3.0,4800,McLean,VA,22101,38.939,-77.1665
+217,Townhouse,"1551 Dunterry Place, McLean, VA 22101",3,4.0,3700,McLean,VA,22101,38.939,-77.1665
+218,House,"7209 Matthew Mills Rd, McLean, VA 22101",4,2.0,4500,McLean,VA,22101,38.939,-77.1665
+219,House,"1828 Youngblood St, McLean, VA 22101",4,3.5,3650,McLean,VA,22101,38.939,-77.1665
+220,Townhouse,"6643 Madison Mclean Dr, McLean, VA 22101",3,3.5,4500,McLean,VA,22101,38.939,-77.1665
+221,Townhouse,"7224 Vistas Ln, McLean, VA 22101",3,2.5,4850,McLean,VA,22101,38.939,-77.1665
+222,House,"7337 Hooking Rd, McLean, VA 22101",4,3.5,6100,McLean,VA,22101,38.939,-77.1665
+223,Townhouse,"11425 Abner Ave, Fairfax, VA 22030",3,4.0,3000,Fairfax,VA,22030,38.8401,-77.3416
+224,House,"4510 Andes Ct, Fairfax, VA 22030",4,2.0,3000,Fairfax,VA,22030,38.8401,-77.3416
+225,Townhouse,"4259 Upper Park Dr, Fairfax, VA 22030",4,3.5,3600,Fairfax,VA,22030,38.8401,-77.3416
+226,Townhouse,"4663 Carisbrooke Ln, Fairfax, VA 22030",3,4.0,3000,Fairfax,VA,22030,38.8401,-77.3416
+227,Townhouse,"4636 Battenburg Ln Unit 632, Fairfax, VA 22030",3,2.5,3000,Fairfax,VA,22030,38.8401,-77.3416
+228,House,"4724 Spruce Ave, Fairfax, VA 22030",4,3.0,3400,Fairfax,VA,22030,38.8401,-77.3416
+229,Townhouse,"11636 Park Green Dr, Fairfax, VA 22030",3,3.5,3000,Fairfax,VA,22030,38.8401,-77.3416
+230,Townhouse,"4631 Carisbrooke Ln, Fairfax, VA 22030",3,3.5,3300,Fairfax,VA,22030,38.8401,-77.3416
+231,Townhouse,"4749 Thornbury Dr, Fairfax, VA 22030",3,2.5,3400,Fairfax,VA,22030,38.8401,-77.3416
+232,Townhouse,"4210 Lower Park Dr, Fairfax, VA 22030",3,3.5,3600,Fairfax,VA,22030,38.8401,-77.3416
+233,Townhouse,"7448 Pohick Rd, Lorton, VA 22079",3,2.5,2650,Lorton,VA,22079,38.6794,-77.2063
+234,Townhouse,"8271 Shannons Landing Way, Lorton, VA 22079",3,2.5,3300,Lorton,VA,22079,38.6794,-77.2063
+235,Townhouse,"9275 Laurel Ridge Crossing Rd, Lorton, VA 22079",3,3.5,3300,Lorton,VA,22079,38.6794,-77.2063
+236,Townhouse,"8621 Rocky Gap Ct, Lorton, VA 22079",3,4.0,2700,Lorton,VA,22079,38.6794,-77.2063
+237,Townhouse,"7671 Wolford Way, Lorton, VA 22079",3,2.5,2750,Lorton,VA,22079,38.6794,-77.2063
+238,Townhouse,"8410 Chaucer House Ct, Lorton, VA 22079",3,3.5,6000,Lorton,VA,22079,38.6794,-77.2063
+239,House,"9050 Galvin Ln, Lorton, VA 22079",4,6.0,3950,Lorton,VA,22079,38.6794,-77.2063
+240,Townhouse,"8191 Singleleaf Ln, Lorton, VA 22079",4,3.5,3000,Lorton,VA,22079,38.6794,-77.2063
+241,House,"5906 Oak Leather Dr, Burke, VA 22015",3,2.5,3145,Burke,VA,22015,38.7871,-77.2815
+242,Townhouse,"10629 Lakeside Oak Ct, Burke, VA 22015",3,4.0,3000,Burke,VA,22015,38.7871,-77.2815
+243,Townhouse,"9170 Broken Oak Place Unit 66B, Burke, VA 22015",3,2.5,2700,Burke,VA,22015,38.7871,-77.2815
+244,House,"5997 Clerkenwell Ct, Burke, VA 22015",3,2.5,2800,Burke,VA,22015,38.7871,-77.2815
+245,House,"5913 Freds Oak Rd, Burke, VA 22015",4,3.5,3800,Burke,VA,22015,38.7871,-77.2815
+246,House,"9343 Kite St, Burke, VA 22015",3,3.0,3400,Burke,VA,22015,38.7871,-77.2815
+247,Townhouse,"5803 Banning Place, Burke, VA 22015",3,4.0,2700,Burke,VA,22015,38.7871,-77.2815
+248,Townhouse,"10212 Sassafras Woods Ct, Burke, VA 22015",3,2.5,2700,Burke,VA,22015,38.7871,-77.2815
+249,Townhouse,"9354 Mccarthy Woods Ct, Burke, VA 22015",3,2.5,3000,Burke,VA,22015,38.7871,-77.2815
+250,House,"6206 Winnepeg Dr, Burke, VA 22015",4,3.0,3700,Burke,VA,22015,38.7871,-77.2815
+251,Townhouse,"9509 Cherry Oak Ct, Burke, VA 22015",3,2.5,2800,Burke,VA,22015,38.7871,-77.2815
+252,Townhouse,"5707 Waters Edge Landing Ct, Burke, VA 22015",4,3.5,3350,Burke,VA,22015,38.7871,-77.2815
+253,Townhouse,"3053 Meeting St, Falls Church, VA 22044",3,3.5,3500,Falls Church,VA,22044,38.8594,-77.1567
+254,Townhouse,"3045 Federal Hill Dr, Falls Church, VA 22044",4,3.5,3500,Falls Church,VA,22044,38.8594,-77.1567
+255,House,"6324 Waterway Dr, Falls Church, VA 22044",4,3.0,4950,Falls Church,VA,22044,38.8594,-77.1567
+256,Townhouse,"1413 Green Run Ln, Reston, VA 20190",3,2.0,2900,Reston,VA,20190,38.9596,-77.3374
+257,Townhouse,"1626 Valencia Way, Reston, VA 20190",3,4.0,2950,Reston,VA,20190,38.9596,-77.3374
+258,Townhouse,"2077 Hopewood Dr, Falls Church, VA 22043",3,2.5,4250,Falls Church,VA,22043,38.9005,-77.1976
+259,House,"7725 Marthas Ln, Falls Church, VA 22043",3,2.0,3350,Falls Church,VA,22043,38.9005,-77.1976
+260,House,"2600 Kirklyn St, Falls Church, VA 22043",4,3.0,3400,Falls Church,VA,22043,38.9005,-77.1976
+261,Townhouse,"6860 Williamsburg Pond Ct, Falls Church, VA 22043",3,3.5,4300,Falls Church,VA,22043,38.9005,-77.1976
+262,House,"7332 Pinecastle Rd, Falls Church, VA 22043",3,2.5,3695,Falls Church,VA,22043,38.9005,-77.1976
+263,House,"7425 Paxton Rd, Falls Church, VA 22043",3,2.0,2900,Falls Church,VA,22043,38.9005,-77.1976
+264,Townhouse,"7709 Trevino Ln, Falls Church, VA 22043",3,2.0,2300,Falls Church,VA,22043,38.9005,-77.1976
+265,House,"7624 Lisle Ave, Falls Church, VA 22043",3,2.0,3300,Falls Church,VA,22043,38.9005,-77.1976
+266,House,"5913 Poyntz Place, Alexandria, VA 22310",4,3.0,3800,Alexandria,VA,22310,38.7832,-77.123
+267,House,"6609 Berkshire Dr, Alexandria, VA 22310",4,2.0,3300,Alexandria,VA,22310,38.7832,-77.123
+268,House,"5925 Brookview Dr, Alexandria, VA 22310",3,2.5,3500,Alexandria,VA,22310,38.7832,-77.123
+269,Townhouse,"6644 Elk Park Ct, Alexandria, VA 22310",3,2.5,2825,Alexandria,VA,22310,38.7832,-77.123
+270,Townhouse,"6428 Gildar St, Alexandria, VA 22310",3,2.5,3300,Alexandria,VA,22310,38.7832,-77.123
+271,House,"5950 Clames Dr, Alexandria, VA 22310",4,2.0,3200,Alexandria,VA,22310,38.7832,-77.123
+272,House,"6002 Ridge View Dr, Alexandria, VA 22310",4,2.0,3100,Alexandria,VA,22310,38.7832,-77.123
+273,House,"6107 Holly Tree Dr, Alexandria, VA 22310",4,2.5,4000,Alexandria,VA,22310,38.7832,-77.123
+274,House,"3817 Fort Hill Dr, Alexandria, VA 22310",4,5.0,6000,Alexandria,VA,22310,38.7832,-77.123
+275,Townhouse,"6010 Lands End Ln, Alexandria, VA 22315",3,4.0,3200,Alexandria,VA,22315,38.7569,-77.148
+276,House,"7432 Berwick Ct, Alexandria, VA 22315",4,2.5,3350,Alexandria,VA,22315,38.7569,-77.148
+277,Townhouse,"6012 Kestner Cir, Alexandria, VA 22315",3,3.5,3000,Alexandria,VA,22315,38.7569,-77.148
+278,Townhouse,"7804 Locust Leaf Ln, Alexandria, VA 22315",3,4.0,3400,Alexandria,VA,22315,38.7569,-77.148
+279,Townhouse,"6514 Trask Terrace, Alexandria, VA 22315",3,3.5,3695,Alexandria,VA,22315,38.7569,-77.148
+280,Townhouse,"7341 Crestleigh Cir, Alexandria, VA 22315",3,4.0,2900,Alexandria,VA,22315,38.7569,-77.148
+281,Townhouse,"5340 Harbor Court Dr, Alexandria, VA 22315",3,2.5,2900,Alexandria,VA,22315,38.7569,-77.148
+282,House,"6716 Morning Ride Cir, Alexandria, VA 22315",4,3.5,3900,Alexandria,VA,22315,38.7569,-77.148
+283,Townhouse,"7488 Digby Green, Alexandria, VA 22315",3,4.0,2850,Alexandria,VA,22315,38.7569,-77.148
+284,House,"7718 Stone Wheat Ct, Alexandria, VA 22315",4,2.5,4000,Alexandria,VA,22315,38.7569,-77.148
+285,Townhouse,"7425 Duddington Dr, Alexandria, VA 22315",3,3.5,2750,Alexandria,VA,22315,38.7569,-77.148
+286,Townhouse,"6582 Morning Meadow Dr, Alexandria, VA 22315",3,4.0,2900,Alexandria,VA,22315,38.7569,-77.148
+287,Townhouse,"7064 Elton Way, Alexandria, VA 22315",3,3.5,3200,Alexandria,VA,22315,38.7569,-77.148
+288,Townhouse,"1528 Poplar Grove Dr, Reston, VA 20194",3,4.0,3000,Reston,VA,20194,38.9798,-77.3433
+289,Townhouse,"1380 Park Garden Ln, Reston, VA 20194",3,3.5,3400,Reston,VA,20194,38.9798,-77.3433
+290,Townhouse,"1679 Bayfield Way, Reston, VA 20194",3,2.5,3000,Reston,VA,20194,38.9798,-77.3433
+291,Townhouse,"11409 Summer House Ct, Reston, VA 20194",3,2.5,2999,Reston,VA,20194,38.9798,-77.3433
+292,House,"8811 Parliament Dr, Springfield, VA 22151",4,2.5,3100,Springfield,VA,22151,38.8029,-77.2108
+293,Townhouse,"7022 Braddock Mews Place, Springfield, VA 22151",4,4.0,3200,Springfield,VA,22151,38.8029,-77.2108
+294,Townhouse,"1110 Floyd Place, Herndon, VA 20170",3,4.0,2550,Herndon,VA,20170,38.9809,-77.3803
+295,Townhouse,"1451 Bluemont Ct, Herndon, VA 20170",3,3.5,3400,Herndon,VA,20170,38.9809,-77.3803
+296,House,"12629 Fantasia Dr, Herndon, VA 20170",3,2.0,3200,Herndon,VA,20170,38.9809,-77.3803
+297,House,"821 Van Buren St, Herndon, VA 20170",4,4.0,3000,Herndon,VA,20170,38.9809,-77.3803
+298,House,"505 Woodshire Ln, Herndon, VA 20170",4,2.5,3599,Herndon,VA,20170,38.9809,-77.3803
+299,House,"1335 Butter Churn Dr, Herndon, VA 20170",4,3.5,3500,Herndon,VA,20170,38.9809,-77.3803
+300,House,"1160 Sterling Rd, Herndon, VA 20170",3,2.0,3150,Herndon,VA,20170,38.9809,-77.3803
+301,House,"13360 Keisler Ct, Herndon, VA 20170",4,2.5,3500,Herndon,VA,20170,38.9809,-77.3803
+302,House,"902 Spring Knoll Dr, Herndon, VA 20170",4,3.5,3900,Herndon,VA,20170,38.9809,-77.3803
+303,Townhouse,"109 Fortnightly Blvd, Herndon, VA 20170",3,4.0,2850,Herndon,VA,20170,38.9809,-77.3803
+304,House,"6208 Tally Ho Ln, Alexandria, VA 22307",3,3.5,4000,Alexandria,VA,22307,38.7721,-77.0575
+305,House,"7035 Quander Rd, Alexandria, VA 22307",3,3.0,3695,Alexandria,VA,22307,38.7721,-77.0575
+306,House,"1715 Hollinwood Dr, Alexandria, VA 22307",4,3.0,4750,Alexandria,VA,22307,38.7721,-77.0575
+307,House,"7611 Holiday Dr, Alexandria, VA 22308",3,3.0,4000,Alexandria,VA,22308,38.7316,-77.0583
+308,House,"1118 Collingwood Rd, Alexandria, VA 22308",4,3.0,4650,Alexandria,VA,22308,38.7316,-77.0583
+309,House,"8228 Riverside Rd, Alexandria, VA 22308",4,3.0,3750,Alexandria,VA,22308,38.7316,-77.0583
+310,House,"7916 Bainbridge Rd, Alexandria, VA 22308",3,2.0,3550,Alexandria,VA,22308,38.7316,-77.0583
+311,House,"7870 Southdown Rd, Alexandria, VA 22308",3,2.0,3950,Alexandria,VA,22308,38.7316,-77.0583
+312,House,"8313 Riverside Rd, Alexandria, VA 22308",4,2.0,3400,Alexandria,VA,22308,38.7316,-77.0583
+313,Townhouse,"7804 Colonial Springs Blvd, Alexandria, VA 22306",3,2.5,2900,Alexandria,VA,22306,38.7568,-77.092
+314,House,"2503 Fleming St, Alexandria, VA 22306",3,2.5,3495,Alexandria,VA,22306,38.7568,-77.092
+315,Townhouse,"3015 Kings Village Rd, Alexandria, VA 22306",4,2.5,2800,Alexandria,VA,22306,38.7568,-77.092
+316,House,"3512 Groveton St, Alexandria, VA 22306",3,2.0,3500,Alexandria,VA,22306,38.7568,-77.092
+317,House,"2413 Belle Haven Meadows Ct, Alexandria, VA 22306",4,3.5,4500,Alexandria,VA,22306,38.7568,-77.092
+318,Townhouse,"8367 Millwood Dr, Springfield, VA 22152",3,2.5,3400,Springfield,VA,22152,38.7759,-77.2312
+319,Townhouse,"9068 Blarney Stone Dr, Springfield, VA 22152",3,3.5,3000,Springfield,VA,22152,38.7759,-77.2312
+320,Townhouse,"6830 Wild Rose Ct, Springfield, VA 22152",3,4.0,2975,Springfield,VA,22152,38.7759,-77.2312
+321,Townhouse,"7285 Olde Lantern Way, Springfield, VA 22152",3,4.0,3200,Springfield,VA,22152,38.7759,-77.2312
+322,Townhouse,"5925 Prince George Dr Unit 328, Springfield, VA 22152",3,2.0,2875,Springfield,VA,22152,38.7759,-77.2312
+323,Townhouse,"6028 Selwood Place, Springfield, VA 22152",3,2.5,2800,Springfield,VA,22152,38.7759,-77.2312
+324,Townhouse,"6314 Over See Ct, Springfield, VA 22152",3,2.5,2500,Springfield,VA,22152,38.7759,-77.2312
+325,Townhouse,"7221 Kousa Ln, Springfield, VA 22152",4,3.5,2750,Springfield,VA,22152,38.7759,-77.2312
+326,Townhouse,"7222 Evanston Rd, Springfield, VA 22150",3,2.5,3150,Springfield,VA,22150,38.7719,-77.1857
+327,House,"7406 Calamo St, Springfield, VA 22150",4,3.0,4000,Springfield,VA,22150,38.7719,-77.1857
+328,Townhouse,"6398 Dakine Cir, Springfield, VA 22150",3,5.0,3100,Springfield,VA,22150,38.7719,-77.1857
+329,Townhouse,"6388 Stagg Ct, Springfield, VA 22150",4,3.5,3000,Springfield,VA,22150,38.7719,-77.1857
+330,House,"7126 Gormel Dr, Springfield, VA 22150",3,2.5,3400,Springfield,VA,22150,38.7719,-77.1857
+331,Townhouse,"3903 Barcroft Mews Ct, Falls Church, VA 22041",3,3.5,3700,Falls Church,VA,22041,38.848,-77.1414
+332,House,"3615 Tallwood Terrace, Falls Church, VA 22041",4,3.0,4000,Falls Church,VA,22041,38.848,-77.1414
+333,Townhouse,"1708 Anderson Rd, McLean, VA 22102",3,5.0,5200,McLean,VA,22102,38.9509,-77.2303
+334,Townhouse,"7737 Legere Ct Unit 36, McLean, VA 22102",3,5.0,4995,McLean,VA,22102,38.9509,-77.2303
+335,House,"1601 Colonial Ln, McLean, VA 22102",3,3.5,4300,McLean,VA,22102,38.9509,-77.2303
+336,House,"1240 Daleview Dr, McLean, VA 22102",4,3.5,5570,McLean,VA,22102,38.9509,-77.2303
+337,House,"1348 Macbeth St, McLean, VA 22102",4,4.0,4900,McLean,VA,22102,38.9509,-77.2303
+338,Townhouse,"7340 Eldorado St, McLean, VA 22102",3,3.5,3500,McLean,VA,22102,38.9509,-77.2303
+339,House,"963 Saigon Rd, McLean, VA 22102",3,3.0,5300,McLean,VA,22102,38.9509,-77.2303
+340,House,"4004 David Ln, Alexandria, VA 22311",4,2.0,3400,Alexandria,VA,22311,38.834,-77.1215
+341,Townhouse,"6706 Jenny Leigh Ct, Centreville, VA 20121",3,3.5,2600,Centreville,VA,20121,38.8178,-77.4598
+342,Townhouse,"6330 James Harris Way, Centreville, VA 20121",3,2.5,2800,Centreville,VA,20121,38.8178,-77.4598
+343,Townhouse,"14005 Betsy Ross Ln, Centreville, VA 20121",3,3.5,2700,Centreville,VA,20121,38.8178,-77.4598
+344,House,"14511 Picket Oaks Rd, Centreville, VA 20121",4,3.5,4300,Centreville,VA,20121,38.8178,-77.4598
+345,House,"6937 Confederate Ridge Ln, Centreville, VA 20121",4,2.5,3300,Centreville,VA,20121,38.8178,-77.4598
+346,Townhouse,"14223 Upperridge Ct, Centreville, VA 20121",3,3.5,2700,Centreville,VA,20121,38.8178,-77.4598
+347,Townhouse,"14303 Papilion Way, Centreville, VA 20121",3,2.5,2750,Centreville,VA,20121,38.8178,-77.4598
+348,Townhouse,"13918 Baton Rouge Ct, Centreville, VA 20121",3,2.5,2600,Centreville,VA,20121,38.8178,-77.4598
+349,Townhouse,"6365 Brampton Ct, Alexandria, VA 22304",3,5.0,3950,Alexandria,VA,22304,38.8126,-77.1163
+350,Townhouse,"3138 Borge St, Oakton, VA 22124",3,3.5,3500,Oakton,VA,22124,38.8898,-77.3302
+351,Townhouse,"2818 Oakton Manor Ct, Oakton, VA 22124",3,3.0,3200,Oakton,VA,22124,38.8898,-77.3302
+352,House,"2784 Welbourne Ct, Oakton, VA 22124",4,3.5,6500,Oakton,VA,22124,38.8898,-77.3302
+353,House,"8412 Leaf Rd, Alexandria, VA 22309",3,2.0,3180,Alexandria,VA,22309,38.7213,-77.106
+354,House,"9125 Patton Blvd, Alexandria, VA 22309",3,2.0,3595,Alexandria,VA,22309,38.7213,-77.106
+355,House,"8528 Engleside St, Alexandria, VA 22309",4,4.5,3330,Alexandria,VA,22309,38.7213,-77.106
+356,House,"47773 Rafter Ct, Sterling, VA 20165",4,3.5,1800,Sterling,VA,20165,39.051,-77.3887
+357,House,"6104 Bluffdale Ct, Clifton, VA 20124",4,2.5,3750,Clifton,VA,20124,38.7819,-77.3918
+358,Townhouse,"44108 Turf Field Square, Chantilly, VA 20152",4,3.5,3400,Chantilly,VA,20152,38.905,-77.5168
+359,House,"11200 Chapel Rd, Fairfax Station, VA 22039",4,3.5,4200,Fairfax Station,VA,22039,38.7499,-77.3161
+360,Townhouse,"23013 Potomac Hill Square, Sterling, VA 20166",4,4.0,2800,Sterling,VA,20166,38.9732,-77.4581
+361,Townhouse,"4313 4th Ct N, Arlington, VA 22203",4,4.5,5200,Arlington,VA,22203,38.8738,-77.1181
+362,Townhouse,"402 N Thomas St, Arlington, VA 22203",3,2.5,4250,Arlington,VA,22203,38.8738,-77.1181
+363,Townhouse,"625 N Oakland St, Arlington, VA 22203",4,2.0,4600,Arlington,VA,22203,38.8738,-77.1181
+364,House,"4767 1st St N, Arlington, VA 22203",3,2.0,3200,Arlington,VA,22203,38.8738,-77.1181
+365,Townhouse,"27 N Trenton St, Arlington, VA 22203",4,3.5,5000,Arlington,VA,22203,38.8738,-77.1181
+366,House,"2026 S Monroe St, Arlington, VA 22204",4,3.5,3900,Arlington,VA,22204,38.8655,-77.0875
+367,Townhouse,"748 S Granada St, Arlington, VA 22204",4,5.0,3720,Arlington,VA,22204,38.8655,-77.0875
+368,Townhouse,"4173 S Four Mile Run Dr Unit B, Arlington, VA 22204",3,2.5,3200,Arlington,VA,22204,38.8655,-77.0875
+369,Townhouse,"2029 S Glebe Rd, Arlington, VA 22204",3,2.0,3399,Arlington,VA,22204,38.8655,-77.0875
+370,House,"2614 2nd St S, Arlington, VA 22204",4,2.0,3800,Arlington,VA,22204,38.8655,-77.0875
+371,House,"1301 S Rolfe St, Arlington, VA 22204",4,2.0,5250,Arlington,VA,22204,38.8655,-77.0875
+372,House,"4817 14th St S, Arlington, VA 22204",4,3.0,3350,Arlington,VA,22204,38.8655,-77.0875
+373,House,"1151 S Edison St, Arlington, VA 22204",3,2.0,5000,Arlington,VA,22204,38.8655,-77.0875
+374,House,"5 S Garfield St, Arlington, VA 22204",4,3.5,4900,Arlington,VA,22204,38.8655,-77.0875
+375,House,"4145 6th St S, Arlington, VA 22204",4,2.0,4300,Arlington,VA,22204,38.8655,-77.0875
+376,House,"1600 13th St S, Arlington, VA 22204",4,3.0,3800,Arlington,VA,22204,38.8655,-77.0875
+377,House,"1941 N Vermont St, Arlington, VA 22207",3,2.0,3600,Arlington,VA,22207,38.9066,-77.1233
+378,House,"2431 N Nottingham St, Arlington, VA 22207",3,2.5,4200,Arlington,VA,22207,38.9066,-77.1233
+379,House,"4110 Cherry Hill Rd, Arlington, VA 22207",4,4.5,7000,Arlington,VA,22207,38.9066,-77.1233
+380,House,"2542 N Vermont St, Arlington, VA 22207",4,3.0,5500,Arlington,VA,22207,38.9066,-77.1233
+381,House,"3409 N Abingdon St, Arlington, VA 22207",4,4.0,5800,Arlington,VA,22207,38.9066,-77.1233
+382,House,"5805 26th St N Unit 1, Arlington, VA 22207",3,2.0,3499,Arlington,VA,22207,38.9066,-77.1233
+383,House,"3020 Military Rd, Arlington, VA 22207",3,3.0,4100,Arlington,VA,22207,38.9066,-77.1233
+384,House,"3405 N Peary St, Arlington, VA 22207",4,3.0,4500,Arlington,VA,22207,38.9066,-77.1233
+385,House,"3420 N Glebe Rd, Arlington, VA 22207",4,3.0,4800,Arlington,VA,22207,38.9066,-77.1233
+386,Townhouse,"2312 N Van Buren Ct, Arlington, VA 22205",3,3.5,4500,Arlington,VA,22205,38.884,-77.1401
+387,House,"5650 4th St N, Arlington, VA 22205",4,2.0,3200,Arlington,VA,22205,38.884,-77.1401
+388,House,"2219 N Nottingham St, Arlington, VA 22205",4,2.0,4100,Arlington,VA,22205,38.884,-77.1401
+389,House,"6321 Washington Blvd, Arlington, VA 22205",4,3.5,5200,Arlington,VA,22205,38.884,-77.1401
+390,Townhouse,"3112 S Fox St, Arlington, VA 22202",3,2.0,3300,Arlington,VA,22202,38.8567,-77.0467
+391,House,"2205 S Grant St, Arlington, VA 22202",3,2.0,4150,Arlington,VA,22202,38.8567,-77.0467
+392,Townhouse,"2334 S Rolfe St, Arlington, VA 22202",3,3.5,4200,Arlington,VA,22202,38.8567,-77.0467
+393,Townhouse,"606 15th St S Unit 1, Arlington, VA 22202",3,2.5,3295,Arlington,VA,22202,38.8567,-77.0467
+394,House,"2400 S Arlington Ridge Rd, Arlington, VA 22202",4,6.0,6500,Arlington,VA,22202,38.8567,-77.0467
+395,House,"928 19th St S, Arlington, VA 22202",3,2.0,3300,Arlington,VA,22202,38.8567,-77.0467
+396,House,"929 19th St S, Arlington, VA 22202",3,2.0,3300,Arlington,VA,22202,38.8567,-77.0467
+397,House,"1101 17th St S, Arlington, VA 22202",3,2.0,1050,Arlington,VA,22202,38.8567,-77.0467
+398,Townhouse,"1524 16th Ct N, Arlington, VA 22209",3,3.5,6900,Arlington,VA,22209,38.8946,-77.0754
+399,Townhouse,"1421 N Nash St, Arlington, VA 22209",3,6.0,12000,Arlington,VA,22209,38.8946,-77.0754
+400,Townhouse,"2404 13th Ct N, Arlington, VA 22201",3,3.5,4995,Arlington,VA,22201,38.8862,-77.0948
+401,Townhouse,"2422 14th St N, Arlington, VA 22201",3,3.5,4900,Arlington,VA,22201,38.8862,-77.0948
+402,Townhouse,"1149 N Taylor St, Arlington, VA 22201",4,5.0,5000,Arlington,VA,22201,38.8862,-77.0948
+403,House,"1611 N Highland St, Arlington, VA 22201",4,4.5,5500,Arlington,VA,22201,38.8862,-77.0948
+404,Townhouse,"3316 Kemper Rd, Arlington, VA 22206",3,3.5,4100,Arlington,VA,22206,38.8423,-77.091
+405,Townhouse,"2270 S Garfield St Unit 4, Arlington, VA 22206",4,4.5,3650,Arlington,VA,22206,38.8423,-77.091
+406,Townhouse,"3080 S Glebe Rd, Arlington, VA 22206",3,3.5,3650,Arlington,VA,22206,38.8423,-77.091
+407,Townhouse,"4607 28th Rd S Unit C, Arlington, VA 22206",3,2.0,3200,Arlington,VA,22206,38.8423,-77.091
+408,Townhouse,"747 Kentucky Ave SE, Washington, DC 20003",3,2.0,3400,Washington,DC,20003,38.8816,-76.9903
+409,Townhouse,"118 17th St SE, Washington, DC 20003",3,3.5,5000,Washington,DC,20003,38.8816,-76.9903
+410,Townhouse,"1228 C St SE, Washington, DC 20003",3,2.5,5400,Washington,DC,20003,38.8816,-76.9903
+411,Townhouse,"117 15th St SE, Washington, DC 20003",4,2.5,4500,Washington,DC,20003,38.8816,-76.9903
+412,Townhouse,"322 Adolf Cluss Ct SE, Washington, DC 20003",3,3.5,12000,Washington,DC,20003,38.8816,-76.9903
+413,Townhouse,"220 8th St SE, Washington, DC 20003",3,2.5,6500,Washington,DC,20003,38.8816,-76.9903
+414,Townhouse,"1016 G St SE, Washington, DC 20003",4,3.5,8000,Washington,DC,20003,38.8816,-76.9903
+415,Townhouse,"524 15th St SE Unit B, Washington, DC 20003",3,2.5,3995,Washington,DC,20003,38.8816,-76.9903
+416,Townhouse,"5120 Brooks St NE, Washington, DC 20019",3,2.0,2650,Washington,DC,20019,38.8924,-76.9424
+417,House,"1112 51st Place NE, Washington, DC 20019",4,3.0,3300,Washington,DC,20019,38.8924,-76.9424
+418,Townhouse,"4236 Grant St NE, Washington, DC 20019",4,2.0,2500,Washington,DC,20019,38.8924,-76.9424
+419,Townhouse,"3740 Foote St NE, Washington, DC 20019",3,3.5,2998,Washington,DC,20019,38.8924,-76.9424
+420,House,"5109 A St SE, Washington, DC 20019",4,4.0,3200,Washington,DC,20019,38.8924,-76.9424
+421,Townhouse,"204 53rd St NE, Washington, DC 20019",3,2.0,2850,Washington,DC,20019,38.8924,-76.9424
+422,Townhouse,"804 30th St SE, Washington, DC 20019",4,3.5,5100,Washington,DC,20019,38.8924,-76.9424
+423,Townhouse,"661 Anacostia Ave NE, Washington, DC 20019",3,3.5,3000,Washington,DC,20019,38.8924,-76.9424
+424,Townhouse,"321 35th St NE, Washington, DC 20019",3,2.0,3500,Washington,DC,20019,38.8924,-76.9424
+425,Townhouse,"514 45th St NE, Washington, DC 20019",4,2.0,2900,Washington,DC,20019,38.8924,-76.9424
+426,Townhouse,"910 New Hampshire Ave NW, Washington, DC 20037",4,3.0,7500,Washington,DC,20037,38.8984,-77.051
+427,Townhouse,"947 25th St NW, Washington, DC 20037",3,2.5,5400,Washington,DC,20037,38.8984,-77.051
+428,Townhouse,"900 24th St NW, Washington, DC 20037",4,2.5,5500,Washington,DC,20037,38.8984,-77.051
+429,House,"1255 22nd St NW Unit 309, Washington, DC 20037",4,4.0,9750,Washington,DC,20037,38.8984,-77.051
+430,House,"3906 24th St NE, Washington, DC 20018",3,2.5,3500,Washington,DC,20018,38.9264,-76.9727
+431,Townhouse,"3617 18th St NE, Washington, DC 20018",3,2.5,3200,Washington,DC,20018,38.9264,-76.9727
+432,House,"2618 Newton St NE, Washington, DC 20018",3,3.5,3200,Washington,DC,20018,38.9264,-76.9727
+433,Townhouse,"2404 Baldwin Crescent NE, Washington, DC 20018",4,3.5,3900,Washington,DC,20018,38.9264,-76.9727
+434,Townhouse,"1326 Otis Place NW, Washington, DC 20010",3,2.5,4500,Washington,DC,20010,38.9325,-77.0295
+435,Townhouse,"715 Kenyon St NW Unit 6, Washington, DC 20010",3,2.0,3150,Washington,DC,20010,38.9325,-77.0295
+436,Townhouse,"1213 Lamont St NW, Washington, DC 20010",4,3.5,6199,Washington,DC,20010,38.9325,-77.0295
+437,Townhouse,"1410 Perry Place NW, Washington, DC 20010",3,3.0,4100,Washington,DC,20010,38.9325,-77.0295
+438,Townhouse,"760 Princeton Place NW, Washington, DC 20010",3,2.0,3500,Washington,DC,20010,38.9325,-77.0295
+439,Townhouse,"3106 18th St NW, Washington, DC 20010",4,4.0,7000,Washington,DC,20010,38.9325,-77.0295
+440,Townhouse,"1452 Spring Rd NW, Washington, DC 20010",3,2.5,4500,Washington,DC,20010,38.9325,-77.0295
+441,Townhouse,"627 Lamont St NW, Washington, DC 20010",4,3.5,4850,Washington,DC,20010,38.9325,-77.0295
+442,Townhouse,"3653 13th St NW, Washington, DC 20010",3,2.0,3400,Washington,DC,20010,38.9325,-77.0295
+443,Townhouse,"3106 Mount Pleasant St NW, Washington, DC 20010",4,2.0,4975,Washington,DC,20010,38.9325,-77.0295
+444,Townhouse,"1846 Ingleside Terrace NW, Washington, DC 20010",4,2.5,4800,Washington,DC,20010,38.9325,-77.0295
+445,House,"1500 Ogden St NW, Washington, DC 20010",3,3.0,3600,Washington,DC,20010,38.9325,-77.0295
+446,Townhouse,"3521 Holmead Place NW, Washington, DC 20010",4,2.5,5400,Washington,DC,20010,38.9325,-77.0295
+447,Townhouse,"1407 Ridgeview Way NW, Washington, DC 20007",3,4.5,9889,Washington,DC,20007,38.9136,-77.0797
+448,House,"3426 Prospect St NW, Washington, DC 20007",3,2.0,7500,Washington,DC,20007,38.9136,-77.0797
+449,House,"1417 44th St NW, Washington, DC 20007",3,3.0,5500,Washington,DC,20007,38.9136,-77.0797
+450,Townhouse,"2039 Huidekoper Place NW, Washington, DC 20007",3,3.0,5250,Washington,DC,20007,38.9136,-77.0797
+451,House,"2711 Wisconsin Ave NW, Washington, DC 20007",3,4.0,4950,Washington,DC,20007,38.9136,-77.0797
+452,Townhouse,"4412 Lingan Rd NW, Washington, DC 20007",3,5.0,5300,Washington,DC,20007,38.9136,-77.0797
+453,Townhouse,"3131 N St NW, Washington, DC 20007",3,3.0,7200,Washington,DC,20007,38.9136,-77.0797
+454,Townhouse,"3802 T St NW, Washington, DC 20007",3,2.0,5995,Washington,DC,20007,38.9136,-77.0797
+455,House,"3500 P St NW, Washington, DC 20007",4,3.5,10500,Washington,DC,20007,38.9136,-77.0797
+456,Townhouse,"1227 33rd St NW, Washington, DC 20007",4,2.5,10000,Washington,DC,20007,38.9136,-77.0797
+457,Townhouse,"1528 34th St NW Unit 1532, Washington, DC 20007",4,3.5,5995,Washington,DC,20007,38.9136,-77.0797
+458,Townhouse,"3741 Winfield Ln NW, Washington, DC 20007",4,4.5,7500,Washington,DC,20007,38.9136,-77.0797
+459,House,"4622 Laverock Place NW, Washington, DC 20007",4,3.5,9995,Washington,DC,20007,38.9136,-77.0797
+460,Townhouse,"1654 33rd St NW, Washington, DC 20007",3,2.0,6500,Washington,DC,20007,38.9136,-77.0797
+461,House,"1414 35th St NW, Washington, DC 20007",4,2.0,10995,Washington,DC,20007,38.9136,-77.0797
+462,Townhouse,"3831 S St NW, Washington, DC 20007",4,4.0,6300,Washington,DC,20007,38.9136,-77.0797
+463,Townhouse,"1230 Eton Ct NW Unit T26, Washington, DC 20007",3,2.5,5500,Washington,DC,20007,38.9136,-77.0797
+464,Townhouse,"1211 Rhode Island Ave NW Unit 2, Washington, DC 20005",3,3.5,5300,Washington,DC,20005,38.9046,-77.0316
+465,Townhouse,"1265 16th St NE, Washington, DC 20002",3,2.0,2950,Washington,DC,20002,38.9053,-76.9846
+466,Townhouse,"1540 Levis St NE Unit B, Washington, DC 20002",4,3.5,4000,Washington,DC,20002,38.9053,-76.9846
+467,Townhouse,"1020 Massachusetts Ave NE Unit A, Washington, DC 20002",3,3.5,5500,Washington,DC,20002,38.9053,-76.9846
+468,Townhouse,"1922 D St NE, Washington, DC 20002",3,2.0,3200,Washington,DC,20002,38.9053,-76.9846
+469,Townhouse,"706 10th St NE, Washington, DC 20002",3,2.5,4000,Washington,DC,20002,38.9053,-76.9846
+470,Townhouse,"310 T St NE Unit UPPER, Washington, DC 20002",3,2.5,4100,Washington,DC,20002,38.9053,-76.9846
+471,Townhouse,"123 Rhode Island Ave NE, Washington, DC 20002",4,3.5,4950,Washington,DC,20002,38.9053,-76.9846
+472,Townhouse,"1000 I St NE Unit 2, Washington, DC 20002",3,2.5,4400,Washington,DC,20002,38.9053,-76.9846
+473,Townhouse,"1310 F St NE, Washington, DC 20002",3,2.0,3600,Washington,DC,20002,38.9053,-76.9846
+474,Townhouse,"1117 7th St NE, Washington, DC 20002",4,3.0,4753,Washington,DC,20002,38.9053,-76.9846
+475,Townhouse,"1431 Ames Place NE, Washington, DC 20002",3,2.0,3950,Washington,DC,20002,38.9053,-76.9846
+476,Townhouse,"603 8th St NE, Washington, DC 20002",4,3.5,6000,Washington,DC,20002,38.9053,-76.9846
+477,Townhouse,"1626 K St NE Unit 1, Washington, DC 20002",3,4.0,3999,Washington,DC,20002,38.9053,-76.9846
+478,Townhouse,"1439 G St NE, Washington, DC 20002",3,3.0,3995,Washington,DC,20002,38.9053,-76.9846
+479,Townhouse,"1007 Florida Ave NE, Washington, DC 20002",4,4.0,4200,Washington,DC,20002,38.9053,-76.9846
+480,Townhouse,"1441 Duncan St NE, Washington, DC 20002",3,3.0,3995,Washington,DC,20002,38.9053,-76.9846
+481,Townhouse,"2011 Benning Rd NE Unit 4, Washington, DC 20002",3,2.0,3300,Washington,DC,20002,38.9053,-76.9846
+482,Townhouse,"2011 Benning Rd NE Unit 3, Washington, DC 20002",3,2.0,3300,Washington,DC,20002,38.9053,-76.9846
+483,Townhouse,"916 12th St NE Unit 1, Washington, DC 20002",3,3.0,3995,Washington,DC,20002,38.9053,-76.9846
+484,Townhouse,"1157 Oates St NE Unit B, Washington, DC 20002",3,3.0,4500,Washington,DC,20002,38.9053,-76.9846
+485,Townhouse,"44 R St NE, Washington, DC 20002",3,2.5,4800,Washington,DC,20002,38.9053,-76.9846
+486,Townhouse,"26 P St NE Unit 4, Washington, DC 20002",3,3.0,3850,Washington,DC,20002,38.9053,-76.9846
+487,Townhouse,"635 K St NE, Washington, DC 20002",3,2.0,3500,Washington,DC,20002,38.9053,-76.9846
+488,Townhouse,"1328 4th St SW, Washington, DC 20024",4,2.0,5000,Washington,DC,20024,38.879,-77.0312
+489,Townhouse,"500 G St SW, Washington, DC 20024",3,2.5,5500,Washington,DC,20024,38.879,-77.0312
+490,House,"45 Sutton Square SW Unit 908, Washington, DC 20024",3,3.5,20000,Washington,DC,20024,38.879,-77.0312
+491,Townhouse,"606 Q St NW, Washington, DC 20001",3,3.5,4400,Washington,DC,20001,38.9109,-77.0178
+492,Townhouse,"1601 5th St NW Unit B, Washington, DC 20001",4,4.5,8000,Washington,DC,20001,38.9109,-77.0178
+493,Townhouse,"2012 2nd St NW, Washington, DC 20001",3,2.5,4300,Washington,DC,20001,38.9109,-77.0178
+494,Townhouse,"133 Florida Ave NW, Washington, DC 20001",3,2.5,4500,Washington,DC,20001,38.9109,-77.0178
+495,Townhouse,"449 Q St NW, Washington, DC 20001",3,2.5,4500,Washington,DC,20001,38.9109,-77.0178
+496,Townhouse,"70 T St NW Unit 1, Washington, DC 20001",3,2.5,4200,Washington,DC,20001,38.9109,-77.0178
+497,Townhouse,"929 T St NW Unit UPPER UNIT, Washington, DC 20001",3,2.5,6200,Washington,DC,20001,38.9109,-77.0178
+498,Townhouse,"33 Adams St NW, Washington, DC 20001",4,3.5,4750,Washington,DC,20001,38.9109,-77.0178
+499,Townhouse,"60 Q St NW, Washington, DC 20001",4,3.5,4650,Washington,DC,20001,38.9109,-77.0178
+500,Townhouse,"6 W St NW, Washington, DC 20001",4,3.5,4800,Washington,DC,20001,38.9109,-77.0178
+501,Townhouse,"4933 11th St NE, Washington, DC 20017",3,2.0,2950,Washington,DC,20017,38.9382,-76.9934
+502,Townhouse,"4336 Varnum Place NE, Washington, DC 20017",4,3.0,3700,Washington,DC,20017,38.9382,-76.9934
+503,Townhouse,"1311 Allison St NE, Washington, DC 20017",3,3.5,4725,Washington,DC,20017,38.9382,-76.9934
+504,Townhouse,"4512 7th St NE, Washington, DC 20017",4,3.5,3350,Washington,DC,20017,38.9382,-76.9934
+505,Townhouse,"613 Buchanan St NE, Washington, DC 20017",3,2.5,3250,Washington,DC,20017,38.9382,-76.9934
+506,Townhouse,"819 Kennedy St NE, Washington, DC 20011",4,2.0,4300,Washington,DC,20011,38.9513,-77.0216
+507,Townhouse,"5121 3rd St NW, Washington, DC 20011",4,3.5,4150,Washington,DC,20011,38.9513,-77.0216
+508,Townhouse,"68 Farragut Place NW, Washington, DC 20011",3,3.5,3900,Washington,DC,20011,38.9513,-77.0216
+509,Townhouse,"4622 8th St NW, Washington, DC 20011",3,3.5,4200,Washington,DC,20011,38.9513,-77.0216
+510,Townhouse,"3801 New Hampshire Ave NW Unit 2, Washington, DC 20011",3,3.0,5000,Washington,DC,20011,38.9513,-77.0216
+511,Townhouse,"705 Quincy St NW, Washington, DC 20011",4,3.5,4500,Washington,DC,20011,38.9513,-77.0216
+512,Townhouse,"5538 Chillum Place NE, Washington, DC 20011",3,3.0,2700,Washington,DC,20011,38.9513,-77.0216
+513,House,"1303 Delafield Place NW, Washington, DC 20011",4,2.0,3840,Washington,DC,20011,38.9513,-77.0216
+514,Townhouse,"526 Somerset Place NW, Washington, DC 20011",4,2.0,3600,Washington,DC,20011,38.9513,-77.0216
+515,Townhouse,"135 Hamilton St NW, Washington, DC 20011",3,2.0,3600,Washington,DC,20011,38.9513,-77.0216
+516,Townhouse,"5326 9th St NW, Washington, DC 20011",3,2.5,4000,Washington,DC,20011,38.9513,-77.0216
+517,Townhouse,"454 Delafield Place NW, Washington, DC 20011",4,3.5,3650,Washington,DC,20011,38.9513,-77.0216
+518,Townhouse,"838 Madison St NW, Washington, DC 20011",4,2.0,3200,Washington,DC,20011,38.9513,-77.0216
+519,Townhouse,"4222 8th St NW Unit 1, Washington, DC 20011",4,4.0,4000,Washington,DC,20011,38.9513,-77.0216
+520,House,"6017 New Hampshire Ave NE, Washington, DC 20011",3,2.0,3500,Washington,DC,20011,38.9513,-77.0216
+521,Townhouse,"531 Ingraham St NE, Washington, DC 20011",4,2.5,3650,Washington,DC,20011,38.9513,-77.0216
+522,Townhouse,"38 Sherman Cir NW, Washington, DC 20011",3,2.0,3900,Washington,DC,20011,38.9513,-77.0216
+523,Townhouse,"5411 Illinois Ave NW, Washington, DC 20011",4,4.5,4900,Washington,DC,20011,38.9513,-77.0216
+524,Townhouse,"3337 Idaho Ave NW, Washington, DC 20016",3,2.5,8978,Washington,DC,20016,38.9393,-77.09
+525,Townhouse,"3911 Watson Place NW, Washington, DC 20016",4,3.0,6200,Washington,DC,20016,38.9393,-77.09
+526,Townhouse,"4346 Westover Place NW, Washington, DC 20016",3,3.5,6000,Washington,DC,20016,38.9393,-77.09
+527,Townhouse,"3339 Idaho Ave NW, Washington, DC 20016",3,2.5,7934,Washington,DC,20016,38.9393,-77.09
+528,House,"3712 Windom Place NW, Washington, DC 20016",4,4.5,6500,Washington,DC,20016,38.9393,-77.09
+529,House,"3020 P St SE, Washington, DC 20020",4,3.0,3300,Washington,DC,20020,38.8614,-76.9768
+530,House,"3800 Nash St SE, Washington, DC 20020",4,3.5,5500,Washington,DC,20020,38.8614,-76.9768
+531,Townhouse,"1616 26th Place SE Unit 1616-2, Washington, DC 20020",3,2.5,2650,Washington,DC,20020,38.8614,-76.9768
+532,Townhouse,"2123 15th St SE, Washington, DC 20020",4,3.5,3500,Washington,DC,20020,38.8614,-76.9768
+533,House,"1887 Savannah Place SE, Washington, DC 20020",3,2.0,2500,Washington,DC,20020,38.8614,-76.9768
+534,Townhouse,"1431 S St SE, Washington, DC 20020",4,2.0,2995,Washington,DC,20020,38.8614,-76.9768
+535,Townhouse,"3975 Alabama Ave SE, Washington, DC 20020",3,2.0,2500,Washington,DC,20020,38.8614,-76.9768
+536,House,"136 Wilmington Place SE, Washington, DC 20032",4,2.5,3100,Washington,DC,20032,38.8311,-77.0149
+537,Townhouse,"872 Bellevue St SE Unit 1, Washington, DC 20032",4,2.0,2300,Washington,DC,20032,38.8311,-77.0149
+538,Townhouse,"1214 Trenton Place SE, Washington, DC 20032",4,2.5,2950,Washington,DC,20032,38.8311,-77.0149
+539,Townhouse,"3407 Wheeler Rd SE, Washington, DC 20032",4,2.5,2600,Washington,DC,20032,38.8311,-77.0149
+540,Townhouse,"1025 Sycamore Dr SE, Washington, DC 20032",4,3.5,3200,Washington,DC,20032,38.8311,-77.0149
+541,House,"6626 31st St NW, Washington, DC 20015",4,3.0,5500,Washington,DC,20015,38.9675,-77.0585
+542,House,"6625 31st St NW, Washington, DC 20015",4,3.5,5400,Washington,DC,20015,38.9675,-77.0585
+543,House,"3339 Military Rd NW, Washington, DC 20015",4,4.0,6950,Washington,DC,20015,38.9675,-77.0585
+544,House,"3315 Ross Place NW, Washington, DC 20008",3,2.5,5900,Washington,DC,20008,38.9361,-77.0589
+545,Townhouse,"3320 Quebec Place NW, Washington, DC 20008",4,3.5,6500,Washington,DC,20008,38.9361,-77.0589
+546,Townhouse,"2022 Hillyer Place NW, Washington, DC 20009",4,3.0,15000,Washington,DC,20009,38.9196,-77.0375
+547,Townhouse,"1420 Paloma Way NW, Washington, DC 20009",3,2.5,12500,Washington,DC,20009,38.9196,-77.0375
+548,Townhouse,"1604 13th St NW, Washington, DC 20009",4,3.0,16500,Washington,DC,20009,38.9196,-77.0375
+549,Townhouse,"2017 N St NW, Washington, DC 20036",3,2.5,8500,Washington,DC,20036,38.9066,-77.0417
+550,House,"6621 Piney Branch Rd NW, Washington, DC 20012",3,3.0,3950,Washington,DC,20012,38.9774,-77.0319
+551,House,"3110 Perry St Unit B, Mount Rainier, MD 20712",3,2.0,2350,Mount Rainier,MD,20712,38.943,-76.9661
+552,House,"3110 Perry St Unit A, Mount Rainier, MD 20712",3,2.0,2350,Mount Rainier,MD,20712,38.943,-76.9661
+553,House,"5401 Riba Ct, Capitol Heights, MD 20743",4,3.0,3200,Capitol Heights,MD,20743,38.8847,-76.8958
+554,Townhouse,"5631 Onslow Way, Capitol Heights, MD 20743",3,2.5,2100,Capitol Heights,MD,20743,38.8847,-76.8958
+555,House,"903 Minna Ave, Capitol Heights, MD 20743",4,3.0,2600,Capitol Heights,MD,20743,38.8847,-76.8958
+556,Townhouse,"2235 Afton St, Temple Hills, MD 20748",4,2.0,2245,Temple Hills,MD,20748,38.8167,-76.9406
+557,House,"2803 Curtis Dr, Temple Hills, MD 20748",4,2.5,2750,Temple Hills,MD,20748,38.8167,-76.9406
+558,House,"2104 Sayan Ct, Temple Hills, MD 20748",3,4.0,5700,Temple Hills,MD,20748,38.8167,-76.9406
+559,House,"2501 Gaither St, Temple Hills, MD 20748",3,2.0,2300,Temple Hills,MD,20748,38.8167,-76.9406
+560,Townhouse,"430 N Union St, Alexandria, VA 22314",4,4.0,8500,Alexandria,VA,22314,38.8074,-77.0567
+561,Townhouse,"700 Kahn Place, Alexandria, VA 22314",4,5.0,9850,Alexandria,VA,22314,38.8074,-77.0567
+562,Townhouse,"1132 Powhatan St, Alexandria, VA 22314",3,2.0,3900,Alexandria,VA,22314,38.8074,-77.0567
+563,House,"4710 Morgan Dr, Chevy Chase, MD 20815",3,3.0,5350,Chevy Chase,MD,20815,38.9832,-77.0786
+564,House,"4207 Stanford St, Chevy Chase, MD 20815",4,3.5,6900,Chevy Chase,MD,20815,38.9832,-77.0786
+565,House,"5512 Uppingham St, Chevy Chase, MD 20815",4,3.0,6500,Chevy Chase,MD,20815,38.9832,-77.0786
+566,House,"7413 Oak Ln, Chevy Chase, MD 20815",3,2.5,5000,Chevy Chase,MD,20815,38.9832,-77.0786
+567,House,"3706 Williams Ln, Chevy Chase, MD 20815",4,2.5,4500,Chevy Chase,MD,20815,38.9832,-77.0786
+568,House,"4130 Leland St, Chevy Chase, MD 20815",3,3.5,4750,Chevy Chase,MD,20815,38.9832,-77.0786
+569,House,"4913 Berkley St, Bethesda, MD 20816",3,3.5,4800,Bethesda,MD,20816,38.9564,-77.1194
+570,House,"5612 Massachusetts Ave, Bethesda, MD 20816",3,2.5,3900,Bethesda,MD,20816,38.9564,-77.1194
+571,Townhouse,"5201 Westbard Ave, Bethesda, MD 20816",4,3.5,5995,Bethesda,MD,20816,38.9564,-77.1194
+572,House,"5216 Augusta St, Bethesda, MD 20816",4,3.5,4950,Bethesda,MD,20816,38.9564,-77.1194
+573,Townhouse,"908 E Meadows Ct, Oxon Hill, MD 20745",3,2.0,2600,Oxon Hill,MD,20745,38.8003,-77.0038
+574,House,"2208 Osborn Dr, Silver Spring, MD 20910",4,2.5,3350,Silver Spring,MD,20910,39.0017,-77.0355
+575,House,"9401 Woodland Dr, Silver Spring, MD 20910",3,2.5,3295,Silver Spring,MD,20910,39.0017,-77.0355
+576,House,"9501 Hale St, Silver Spring, MD 20910",4,2.0,3450,Silver Spring,MD,20910,39.0017,-77.0355
+577,House,"717 Sheridan St, Hyattsville, MD 20783",4,2.0,2850,Hyattsville,MD,20783,39.0022,-76.9689
+578,House,"817 Chillum Rd, Hyattsville, MD 20783",4,2.0,2700,Hyattsville,MD,20783,39.0022,-76.9689
+579,House,"5828 Dewey St, Cheverly, MD 20785",3,2.5,2650,Cheverly,MD,20785,38.9186,-76.882
+580,House,"3709 Parkwood St, Brentwood, MD 20722",4,3.0,2999,Brentwood,MD,20722,38.935,-76.9498
+581,Townhouse,"2550 Kirkwood Place, Hyattsville, MD 20782",4,5.0,3650,Hyattsville,MD,20782,38.9643,-76.9649
+582,House,"6226 20th Ave, Hyattsville, MD 20782",4,2.0,3000,Hyattsville,MD,20782,38.9643,-76.9649
+583,House,"10245 Picturesque Ct, Nokesville, VA 20181",4,3.5,3450,Nokesville,VA,20181,38.6703,-77.5592
+584,House,"10339 Reid Ln, Nokesville, VA 20181",4,3.5,4995,Nokesville,VA,20181,38.6703,-77.5592
+585,House,"1439 Maryland Ave, Woodbridge, VA 22191",3,2.0,2799,Woodbridge,VA,22191,38.6246,-77.2693
+586,Townhouse,"2515 Basin View Ln, Woodbridge, VA 22191",3,2.5,2750,Woodbridge,VA,22191,38.6246,-77.2693
+587,Townhouse,"16603 Danridge Manor Dr, Woodbridge, VA 22191",3,3.5,2800,Woodbridge,VA,22191,38.6246,-77.2693
+588,House,"15404 Michigan Rd, Woodbridge, VA 22191",3,2.0,2700,Woodbridge,VA,22191,38.6246,-77.2693
+589,Townhouse,"2459 Eastbourne Dr, Woodbridge, VA 22191",3,2.5,2550,Woodbridge,VA,22191,38.6246,-77.2693
+590,Townhouse,"15335 Watermill Terrace, Woodbridge, VA 22191",3,3.5,2450,Woodbridge,VA,22191,38.6246,-77.2693
+591,Townhouse,"2691 Sheffield Hill Way, Woodbridge, VA 22191",3,2.5,3000,Woodbridge,VA,22191,38.6246,-77.2693
+592,Townhouse,"2413 Brookmoor Ln, Woodbridge, VA 22191",3,3.5,2900,Woodbridge,VA,22191,38.6246,-77.2693
+593,Townhouse,"13251 Revillo Loop, Woodbridge, VA 22191",3,2.5,2595,Woodbridge,VA,22191,38.6246,-77.2693
+594,Townhouse,"2460 Eastbourne Dr, Woodbridge, VA 22191",3,2.5,2799,Woodbridge,VA,22191,38.6246,-77.2693
+595,Townhouse,"14697 Mason Creek Cir, Woodbridge, VA 22191",3,2.5,2900,Woodbridge,VA,22191,38.6246,-77.2693
+596,Townhouse,"2692 Mcguffeys Ct, Woodbridge, VA 22191",3,3.5,2300,Woodbridge,VA,22191,38.6246,-77.2693
+597,Townhouse,"16849 Jed Forest Ln, Woodbridge, VA 22191",3,4.0,2400,Woodbridge,VA,22191,38.6246,-77.2693
+598,Townhouse,"15170 Lancashire Dr, Woodbridge, VA 22191",3,2.5,2850,Woodbridge,VA,22191,38.6246,-77.2693
+599,House,"2800 Pulpit Hill Ct, Woodbridge, VA 22191",4,3.5,3200,Woodbridge,VA,22191,38.6246,-77.2693
+600,Townhouse,"1297 Corbett Place, Woodbridge, VA 22191",3,2.5,2300,Woodbridge,VA,22191,38.6246,-77.2693
+601,Townhouse,"3030 Chinkapin Oak Ln, Woodbridge, VA 22191",3,3.5,2700,Woodbridge,VA,22191,38.6246,-77.2693
+602,Townhouse,"16869 Miranda Ln, Woodbridge, VA 22191",3,3.5,2700,Woodbridge,VA,22191,38.6246,-77.2693
+603,Townhouse,"16813 Miranda Ln, Woodbridge, VA 22191",3,2.5,2500,Woodbridge,VA,22191,38.6246,-77.2693
+604,Townhouse,"14859 Potomac Branch Dr, Woodbridge, VA 22191",3,4.0,2700,Woodbridge,VA,22191,38.6246,-77.2693
+605,Townhouse,"2938 Chinkapin Oak Ln, Woodbridge, VA 22191",3,3.5,2650,Woodbridge,VA,22191,38.6246,-77.2693
+606,Townhouse,"16459 Kenneweg Ct, Woodbridge, VA 22191",3,3.5,2800,Woodbridge,VA,22191,38.6246,-77.2693
+607,Townhouse,"2515 Eastbourne Dr Unit 244, Woodbridge, VA 22191",3,2.5,2599,Woodbridge,VA,22191,38.6246,-77.2693
+608,Townhouse,"15184 Lancashire Dr, Woodbridge, VA 22191",3,2.5,2750,Woodbridge,VA,22191,38.6246,-77.2693
+609,Townhouse,"2310 Margraf Cir, Woodbridge, VA 22191",3,2.5,2650,Woodbridge,VA,22191,38.6246,-77.2693
+610,Townhouse,"2627 Eastbourne Dr, Woodbridge, VA 22191",3,2.5,2490,Woodbridge,VA,22191,38.6246,-77.2693
+611,House,"16004 Laconia Cir, Woodbridge, VA 22191",4,2.5,3200,Woodbridge,VA,22191,38.6246,-77.2693
+612,Townhouse,"2222 Greywing St, Woodbridge, VA 22191",4,3.5,3200,Woodbridge,VA,22191,38.6246,-77.2693
+613,Townhouse,"15597 Grade Line Place, Woodbridge, VA 22191",3,3.5,4100,Woodbridge,VA,22191,38.6246,-77.2693
+614,Townhouse,"2910 Truffle Oak Place, Woodbridge, VA 22191",4,3.5,2650,Woodbridge,VA,22191,38.6246,-77.2693
+615,House,"16475 Kramer Estate Dr, Woodbridge, VA 22191",4,3.5,3600,Woodbridge,VA,22191,38.6246,-77.2693
+616,Townhouse,"2557 Eastbourne Dr Unit 264, Woodbridge, VA 22191",3,2.5,2690,Woodbridge,VA,22191,38.6246,-77.2693
+617,Townhouse,"1940 Winslow Ct, Woodbridge, VA 22191",4,3.5,2550,Woodbridge,VA,22191,38.6246,-77.2693
+618,House,"15312 Lord Culpeper Ct, Woodbridge, VA 22191",4,3.5,3400,Woodbridge,VA,22191,38.6246,-77.2693
+619,Townhouse,"1844 Heather Glen Ct, Woodbridge, VA 22191",4,3.5,2350,Woodbridge,VA,22191,38.6246,-77.2693
+620,Townhouse,"2221 Potomac Club Pkwy, Woodbridge, VA 22191",3,4.0,2950,Woodbridge,VA,22191,38.6246,-77.2693
+621,Townhouse,"14763 Candlewood Ct, Woodbridge, VA 22191",3,2.5,1995,Woodbridge,VA,22191,38.6246,-77.2693
+622,Townhouse,"14696 Pinon Ct, Woodbridge, VA 22191",3,2.0,1895,Woodbridge,VA,22191,38.6246,-77.2693
+623,House,"13208 Fireside Ct, Woodbridge, VA 22191",4,3.0,2800,Woodbridge,VA,22191,38.6246,-77.2693
+624,Townhouse,"1500 Grosbeak Ct, Woodbridge, VA 22191",3,2.5,3000,Woodbridge,VA,22191,38.6246,-77.2693
+625,Townhouse,"13050 Terminal Way, Woodbridge, VA 22193",4,4.0,2500,Woodbridge,VA,22193,38.6437,-77.3488
+626,Townhouse,"14807 Ensor Ct, Woodbridge, VA 22193",4,3.0,2200,Woodbridge,VA,22193,38.6437,-77.3488
+627,House,"14269 Silverdale Dr, Woodbridge, VA 22193",4,2.5,3000,Woodbridge,VA,22193,38.6437,-77.3488
+628,Townhouse,"3413 Castle Hill Dr, Woodbridge, VA 22193",4,4.0,2300,Woodbridge,VA,22193,38.6437,-77.3488
+629,House,"14874 Buttonwood Ct, Woodbridge, VA 22193",4,2.5,2900,Woodbridge,VA,22193,38.6437,-77.3488
+630,Townhouse,"15263 Barnabas Trail, Woodbridge, VA 22193",3,3.5,2400,Woodbridge,VA,22193,38.6437,-77.3488
+631,Townhouse,"6067 Ticket Way, Woodbridge, VA 22193",4,3.5,2700,Woodbridge,VA,22193,38.6437,-77.3488
+632,House,"13888 Montoclair Ln, Woodbridge, VA 22193",4,2.5,2500,Woodbridge,VA,22193,38.6437,-77.3488
+633,House,"5308 Macwood Dr, Woodbridge, VA 22193",4,2.0,2550,Woodbridge,VA,22193,38.6437,-77.3488
+634,House,"5624 Roundtree Dr, Woodbridge, VA 22193",3,3.0,3000,Woodbridge,VA,22193,38.6437,-77.3488
+635,Townhouse,"4506 Blue Jay Ct, Woodbridge, VA 22193",3,3.5,2500,Woodbridge,VA,22193,38.6437,-77.3488
+636,House,"4277 Decatur Dr, Woodbridge, VA 22193",4,3.5,3650,Woodbridge,VA,22193,38.6437,-77.3488
+637,Townhouse,"4589 Perch Branch Way, Woodbridge, VA 22193",3,2.5,2000,Woodbridge,VA,22193,38.6437,-77.3488
+638,House,"13205 Nottingdale Dr, Woodbridge, VA 22193",4,3.5,2700,Woodbridge,VA,22193,38.6437,-77.3488
+639,Townhouse,"3632 Chippendale Cir, Woodbridge, VA 22193",4,3.5,2849,Woodbridge,VA,22193,38.6437,-77.3488
+640,House,"15408 Weldin Dr, Woodbridge, VA 22193",4,3.5,3400,Woodbridge,VA,22193,38.6437,-77.3488
+641,Townhouse,"15506 Banjo Ct, Woodbridge, VA 22193",3,3.5,2300,Woodbridge,VA,22193,38.6437,-77.3488
+642,House,"4249 Glendale Rd, Woodbridge, VA 22193",3,2.0,2200,Woodbridge,VA,22193,38.6437,-77.3488
+643,House,"13410 Hillendale Dr, Woodbridge, VA 22193",4,2.0,2095,Woodbridge,VA,22193,38.6437,-77.3488
+644,Townhouse,"14800 Cherrydale Dr, Woodbridge, VA 22193",3,4.0,2000,Woodbridge,VA,22193,38.6437,-77.3488
+645,Townhouse,"7609 Monitor Ct, Manassas, VA 20109",3,2.5,2395,Manassas,VA,20109,38.7947,-77.528
+646,House,"9997 Copeland Dr, Manassas, VA 20109",4,3.0,2800,Manassas,VA,20109,38.7947,-77.528
+647,House,"11317 Wheeler Ridge Dr, Manassas, VA 20109",4,4.5,4400,Manassas,VA,20109,38.7947,-77.528
+648,Townhouse,"10166 Wilmington St, Manassas, VA 20109",3,2.5,2000,Manassas,VA,20109,38.7947,-77.528
+649,Townhouse,"11162 Soldiers Ct, Manassas, VA 20109",3,3.5,2500,Manassas,VA,20109,38.7947,-77.528
+650,House,"11201 Wheeler Ridge Dr, Manassas, VA 20109",4,4.5,4500,Manassas,VA,20109,38.7947,-77.528
+651,Townhouse,"8235 Gibbon Place, Manassas, VA 20109",3,2.5,2500,Manassas,VA,20109,38.7947,-77.528
+652,Townhouse,"11912 Hayes Station Way, Manassas, VA 20109",3,2.5,2800,Manassas,VA,20109,38.7947,-77.528
+653,Townhouse,"10515 Trinidad Ct, Manassas, VA 20109",3,2.5,1995,Manassas,VA,20109,38.7947,-77.528
+654,Townhouse,"11031 Blackburn Cove Ln, Manassas, VA 20109",3,3.5,3100,Manassas,VA,20109,38.7947,-77.528
+655,Townhouse,"10945 Mission Ridge Dr, Manassas, VA 20109",3,4.0,2200,Manassas,VA,20109,38.7947,-77.528
+656,Townhouse,"5021 Barnacle Place, Dumfries, VA 22025",3,3.5,2650,Dumfries,VA,22025,38.5973,-77.342
+657,House,"4251 Moot Dr, Dumfries, VA 22025",4,4.5,3200,Dumfries,VA,22025,38.5973,-77.342
+658,House,"15815 Vista Dr, Dumfries, VA 22025",4,3.0,3350,Dumfries,VA,22025,38.5973,-77.342
+659,House,"15535 Laurel Ridge Rd, Dumfries, VA 22025",4,3.5,3300,Dumfries,VA,22025,38.5973,-77.342
+660,Townhouse,"15417 Windsong Ln, Dumfries, VA 22025",4,3.5,2300,Dumfries,VA,22025,38.5973,-77.342
+661,House,"3866 Oriole Ct, Dumfries, VA 22025",4,3.5,2950,Dumfries,VA,22025,38.5973,-77.342
+662,House,"7629 Hamelin Ln, Gainesville, VA 20155",4,2.5,3442,Gainesville,VA,20155,38.8117,-77.6153
+663,Townhouse,"7043 Darbey Knoll Dr, Gainesville, VA 20155",3,2.5,2800,Gainesville,VA,20155,38.8117,-77.6153
+664,House,"8131 Landfall Ct, Gainesville, VA 20155",3,3.5,3100,Gainesville,VA,20155,38.8117,-77.6153
+665,House,"15030 Lee Hwy, Gainesville, VA 20155",3,3.0,3490,Gainesville,VA,20155,38.8117,-77.6153
+666,Townhouse,"6848 Witton Cir, Gainesville, VA 20155",3,3.0,2990,Gainesville,VA,20155,38.8117,-77.6153
+667,Townhouse,"7115 Little Thames Dr, Gainesville, VA 20155",3,3.0,2400,Gainesville,VA,20155,38.8117,-77.6153
+668,Townhouse,"7073 Kona Dr, Gainesville, VA 20155",3,3.5,3150,Gainesville,VA,20155,38.8117,-77.6153
+669,Townhouse,"16087 Pitner St, Haymarket, VA 20169",3,4.0,2992,Haymarket,VA,20169,38.8709,-77.6455
+670,Townhouse,"15930 Greymill Manor Dr, Haymarket, VA 20169",3,4.0,2850,Haymarket,VA,20169,38.8709,-77.6455
+671,Townhouse,"15115 Jaxton Square Ln, Haymarket, VA 20169",4,3.5,3200,Haymarket,VA,20169,38.8709,-77.6455
+672,Townhouse,"16099 Pitner St, Haymarket, VA 20169",3,4.0,2800,Haymarket,VA,20169,38.8709,-77.6455
+673,House,"14991 Shady Oak Ln, Haymarket, VA 20169",4,3.5,4800,Haymarket,VA,20169,38.8709,-77.6455
+674,Townhouse,"14602 Turara Ct, Haymarket, VA 20169",3,2.5,2650,Haymarket,VA,20169,38.8709,-77.6455
+675,Townhouse,"6310 Cullen Place, Haymarket, VA 20169",3,4.0,2900,Haymarket,VA,20169,38.8709,-77.6455
+676,Townhouse,"15454 Gossoms Store Ct, Haymarket, VA 20169",3,3.5,3450,Haymarket,VA,20169,38.8709,-77.6455
+677,Townhouse,"3390 Longbow Ct, Woodbridge, VA 22192",3,3.0,2300,Woodbridge,VA,22192,38.6831,-77.316
+678,Townhouse,"2077 Pilgrim Dr, Woodbridge, VA 22192",4,3.5,2700,Woodbridge,VA,22192,38.6831,-77.316
+679,Townhouse,"12260 Aztec Place, Woodbridge, VA 22192",3,4.0,2350,Woodbridge,VA,22192,38.6831,-77.316
+680,Townhouse,"3416 Belfry Ln, Woodbridge, VA 22192",3,2.5,2200,Woodbridge,VA,22192,38.6831,-77.316
+681,House,"3249 Trafalgar Ln, Woodbridge, VA 22192",4,3.5,3000,Woodbridge,VA,22192,38.6831,-77.316
+682,House,"12308 Colby Dr, Woodbridge, VA 22192",4,3.0,2800,Woodbridge,VA,22192,38.6831,-77.316
+683,House,"12817 Valleyhill St, Woodbridge, VA 22192",4,2.5,3300,Woodbridge,VA,22192,38.6831,-77.316
+684,House,"1103 Swan Point Rd, Woodbridge, VA 22192",4,2.5,3000,Woodbridge,VA,22192,38.6831,-77.316
+685,Townhouse,"12988 Augustus Ct, Woodbridge, VA 22192",3,4.0,2650,Woodbridge,VA,22192,38.6831,-77.316
+686,Townhouse,"12975 Freestone Ct, Woodbridge, VA 22192",3,2.5,2400,Woodbridge,VA,22192,38.6831,-77.316
+687,Townhouse,"11616 Nellings Place, Woodbridge, VA 22192",3,2.5,2750,Woodbridge,VA,22192,38.6831,-77.316
+688,Townhouse,"1939 Pohick Creek Ct, Woodbridge, VA 22192",3,2.5,2600,Woodbridge,VA,22192,38.6831,-77.316
+689,Townhouse,"3067 Tecumseh Ct, Woodbridge, VA 22192",3,2.5,2550,Woodbridge,VA,22192,38.6831,-77.316
+690,Townhouse,"1984 Mayflower Dr, Woodbridge, VA 22192",3,3.5,2700,Woodbridge,VA,22192,38.6831,-77.316
+691,Townhouse,"12407 Manchester Way, Woodbridge, VA 22192",3,3.5,2500,Woodbridge,VA,22192,38.6831,-77.316
+692,Townhouse,"12737 Lotte Dr Unit 31, Woodbridge, VA 22192",3,2.5,2800,Woodbridge,VA,22192,38.6831,-77.316
+693,Townhouse,"4316 Wisley Turn, Woodbridge, VA 22192",4,3.5,2800,Woodbridge,VA,22192,38.6831,-77.316
+694,House,"4293 Marquis Place, Woodbridge, VA 22192",4,3.5,3900,Woodbridge,VA,22192,38.6831,-77.316
+695,House,"12421 Mays Quarter Rd, Woodbridge, VA 22192",4,4.5,4250,Woodbridge,VA,22192,38.6831,-77.316
+696,House,"3432 Flint Hill Place, Woodbridge, VA 22192",3,2.5,2950,Woodbridge,VA,22192,38.6831,-77.316
+697,House,"13304 Smoketown Rd, Woodbridge, VA 22192",4,3.5,2831,Woodbridge,VA,22192,38.6831,-77.316
+698,Townhouse,"12140 Salemtown Dr, Woodbridge, VA 22192",3,2.5,5000,Woodbridge,VA,22192,38.6831,-77.316
+699,Townhouse,"3808 Ogilvie Ct, Woodbridge, VA 22192",3,4.0,2300,Woodbridge,VA,22192,38.6831,-77.316
+700,Townhouse,"3454 Aviary Way, Woodbridge, VA 22192",3,4.0,2350,Woodbridge,VA,22192,38.6831,-77.316
+701,Townhouse,"3090 Bridgeton Ct, Woodbridge, VA 22192",3,4.0,2500,Woodbridge,VA,22192,38.6831,-77.316
+702,Townhouse,"12430 Abbey Knoll Ct, Woodbridge, VA 22192",3,3.0,2600,Woodbridge,VA,22192,38.6831,-77.316
+703,House,"3848 Appaloosa Dr, Woodbridge, VA 22192",4,3.5,3599,Woodbridge,VA,22192,38.6831,-77.316
+704,Townhouse,"4068 Chetham Way, Woodbridge, VA 22192",3,2.5,2700,Woodbridge,VA,22192,38.6831,-77.316
+705,House,"4462 Davis Fairfax Ln, Woodbridge, VA 22192",4,3.5,3600,Woodbridge,VA,22192,38.6831,-77.316
+706,Townhouse,"12452 Everest Peak Ln, Woodbridge, VA 22192",3,3.5,2800,Woodbridge,VA,22192,38.6831,-77.316
+707,Townhouse,"5007 Softwood Ln, Woodbridge, VA 22192",3,2.5,2600,Woodbridge,VA,22192,38.6831,-77.316
+708,Townhouse,"12774 Silvia Loop, Woodbridge, VA 22192",3,2.5,2400,Woodbridge,VA,22192,38.6831,-77.316
+709,House,"1932 Brooke Farm Ct, Woodbridge, VA 22192",4,4.0,3800,Woodbridge,VA,22192,38.6831,-77.316
+710,House,"12780 Chatter Brook Dr, Catharpin, VA 20143",4,5.0,6000,Catharpin,VA,20143,38.8677,-77.5673
+711,Townhouse,"3628 Briarwood Dr, Dumfries, VA 22026",3,2.5,2400,Dumfries,VA,22026,38.5684,-77.2954
+712,House,"3278 Mountain Laurel Loop, Dumfries, VA 22026",3,2.0,2500,Dumfries,VA,22026,38.5684,-77.2954
+713,House,"2930 Medford Dr, Dumfries, VA 22026",4,3.5,3600,Dumfries,VA,22026,38.5684,-77.2954
+714,Townhouse,"3550 Briarwood Dr, Dumfries, VA 22026",3,2.5,3000,Dumfries,VA,22026,38.5684,-77.2954
+715,Townhouse,"1764 Blue Spruce St, Dumfries, VA 22026",3,3.5,3400,Dumfries,VA,22026,38.5684,-77.2954
+716,House,"17217 Continental Dr, Dumfries, VA 22026",4,3.5,3900,Dumfries,VA,22026,38.5684,-77.2954
+717,Townhouse,"1710 Beech Leaf St, Dumfries, VA 22026",4,3.5,3400,Dumfries,VA,22026,38.5684,-77.2954
+718,Townhouse,"17096 Gibson Mill Rd, Dumfries, VA 22026",3,2.5,2495,Dumfries,VA,22026,38.5684,-77.2954
+719,Townhouse,"16969 Point Pleasant Ln, Dumfries, VA 22026",3,2.5,2400,Dumfries,VA,22026,38.5684,-77.2954
+720,House,"2117 Blue Mockingbird Ln, Dumfries, VA 22026",4,4.5,4000,Dumfries,VA,22026,38.5684,-77.2954
+721,House,"1995 Silver Sycamore Ln, Dumfries, VA 22026",4,4.5,3950,Dumfries,VA,22026,38.5684,-77.2954
+722,Townhouse,"1678 Dunnington Place, Dumfries, VA 22026",4,3.5,3200,Dumfries,VA,22026,38.5684,-77.2954
+723,Townhouse,"16955 Monmouth Ct, Dumfries, VA 22026",3,3.5,2195,Dumfries,VA,22026,38.5684,-77.2954
+724,Townhouse,"18106 Red Cedar Rd, Dumfries, VA 22026",3,5.0,3150,Dumfries,VA,22026,38.5684,-77.2954
+725,House,"14606 Bristow Rd, Manassas, VA 20112",3,2.0,2900,Manassas,VA,20112,38.6629,-77.4259
+726,House,"8394 Cobb Rd, Manassas, VA 20112",3,3.0,3000,Manassas,VA,20112,38.6629,-77.4259
+727,House,"13663 Van Doren Rd, Manassas, VA 20112",4,3.0,3200,Manassas,VA,20112,38.6629,-77.4259
+728,Townhouse,"15625 Three Otters Place, Manassas, VA 20112",4,3.5,2600,Manassas,VA,20112,38.6629,-77.4259
+729,House,"12718 Kahns Rd, Manassas, VA 20112",4,3.0,3000,Manassas,VA,20112,38.6629,-77.4259
+730,Townhouse,"18313 Reaper Hill Ct, Triangle, VA 22172",3,3.0,2750,Triangle,VA,22172,38.5677,-77.3888
+731,Townhouse,"3622 Wharf Ln, Triangle, VA 22172",3,2.0,1950,Triangle,VA,22172,38.5677,-77.3888
+732,House,"3717 Fidelis Ct, Triangle, VA 22172",4,3.5,3250,Triangle,VA,22172,38.5677,-77.3888
+733,Townhouse,"11911 Waterton Lake Ln, Bristow, VA 20136",3,3.5,3200,Bristow,VA,20136,38.7384,-77.5541
+734,Townhouse,"10642 Bristow Station Dr, Bristow, VA 20136",3,3.5,2800,Bristow,VA,20136,38.7384,-77.5541
+735,Townhouse,"10617 Bristow Station Dr, Bristow, VA 20136",3,4.0,2875,Bristow,VA,20136,38.7384,-77.5541
+736,Townhouse,"9706 Kennoway Ct, Bristow, VA 20136",3,3.5,2650,Bristow,VA,20136,38.7384,-77.5541
+737,House,"11805 Fitzgerald Way, Bristow, VA 20136",4,3.5,4200,Bristow,VA,20136,38.7384,-77.5541
+738,Townhouse,"10263 Magnolia Grove Dr, Manassas, VA 20110",3,4.0,2500,Manassas,VA,20110,38.7468,-77.487
+739,Townhouse,"8330 Leighlex Ct, Manassas, VA 20111",3,3.5,2700,Manassas,VA,20111,38.7492,-77.43
+740,Townhouse,"8508 Charnwood Ct, Manassas, VA 20111",3,3.5,2400,Manassas,VA,20111,38.7492,-77.43
+741,Townhouse,"8121 Hard Shale Rd, Manassas, VA 20111",3,3.5,2700,Manassas,VA,20111,38.7492,-77.43
+742,Townhouse,"7363 Riding Meadow Way, Old Town Manassas, VA 20111",3,3.0,2450,Old Town Manassas,VA,20111,38.7492,-77.43
+743,House,"6875 Twin Beech Ct, Manassas, VA 20111",3,3.0,2650,Manassas,VA,20111,38.7492,-77.43
+744,Townhouse,"150 Rees Place, Falls Church, VA 22046",3,3.5,5200,Falls Church,VA,22046,38.8865,-77.1803
+745,House,"1306 Tracy Place, Falls Church, VA 22046",4,3.5,5600,Falls Church,VA,22046,38.8865,-77.1803
+746,House,"116 W Cameron Rd, Falls Church, VA 22046",3,2.0,3200,Falls Church,VA,22046,38.8865,-77.1803
+747,House,"258 N Washington St, Falls Church, VA 22046",4,2.5,5500,Falls Church,VA,22046,38.8865,-77.1803
+748,Townhouse,"119 Gresham Place, Falls Church, VA 22046",3,3.5,5300,Falls Church,VA,22046,38.8865,-77.1803
+749,House,"206 E Jefferson St, Falls Church, VA 22046",4,3.5,8900,Falls Church,VA,22046,38.8865,-77.1803
+750,House,"415 S West St, Falls Church, VA 22046",3,2.0,3000,Falls Church,VA,22046,38.8865,-77.1803
+751,Townhouse,"10802 Whiterim Dr, Potomac, MD 20854",3,4.5,3870,Potomac,MD,20854,39.0319,-77.2174
+752,Townhouse,"10847 Whiterim Dr, Potomac, MD 20854",3,3.5,3795,Potomac,MD,20854,39.0319,-77.2174
+753,Townhouse,"7866 Archbold Terrace, Cabin John, MD 20818",3,2.5,3350,Cabin John,MD,20818,38.9729,-77.1611
+754,House,"8206 Stone Trail Dr, Bethesda, MD 20817",4,3.0,5295,Bethesda,MD,20817,38.9984,-77.1489
+755,House,"7004 Nevis Rd, Bethesda, MD 20817",4,7.0,6500,Bethesda,MD,20817,38.9984,-77.1489
+756,House,"8204 Osage Ln, Bethesda, MD 20817",4,4.5,5500,Bethesda,MD,20817,38.9984,-77.1489
